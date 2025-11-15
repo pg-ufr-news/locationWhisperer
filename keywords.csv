@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#42204F,#42204F,1,28.333333378333
 'Grytviken',en,South Georgia and the South Sandwich Islands,#42204F,#42204F,1,28.333333348333
+'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#42204F,#42204F,1,24.083783416583
 'Adamstown',en,Pitcairn,#CE98C5,#CE98C5,2,21.739130434783
 'Pitcairn',en,Pitcairn,#CE98C5,#CE98C5,2,21.739130434783
 'Port-aux-Francais',en,French Southern Territories,#AB41C2,#AB41C2,2,7.142857142857
@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'West Island',en,Cocos Islands,#465C29,#465C29,2,1.592356687898
 'Vatican',en,Vatican,#8927E3,#8927E3,2,1.085776330076
 'Vatican City',en,Vatican,#8927E3,#8927E3,2,1.085776330076
-'Antarctica',en,Antarctica,#0B439C,#0B439C,2,0.990000000000
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#3CE31C,#3CE31C,2,0.990000000000
-'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#530FDA,#530FDA,2,0.990000000000
+'Antarctica',en,Antarctica,#0B439C,#0B439C,2,0.990000000000
 'Bouvet Island',en,Bouvet Island,#818C74,#818C74,2,0.990000000000
+'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#530FDA,#530FDA,2,0.990000000000
 'Tokelau',en,Tokelau,#0227FF,#0227FF,2,0.682128240109
 'Christmas Island',en,Christmas Island,#C485B6,#C485B6,2,0.666666666667
 'Flying Fish Cove',en,Christmas Island,#C485B6,#C485B6,2,0.666666666667
