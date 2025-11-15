@@ -165,7 +165,7 @@ indexMissing = {}
 
 def locationInSearch(location):
     for keyword in keywordsDF['keyword']:
-        if((person in keyword) or (keyword.strip("'") in person)):
+        if((location in keyword) or (keyword.strip("'") in location)):
              return True
     return False
 
@@ -199,7 +199,7 @@ for index, column in objNewsDF.iterrows():
                     indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                    'subjectivity':sentence.sentiment.subjectivity, 'language':lang,'count':1}
                 if(not locationInSearch(entity.text) and (column.age < 60)):
-                  if(entity.text in indexNewPersons):
+                  if(entity.text in indexNewLocations):
                     indexNewLocations[entity.text]['count'] += 1
                     indexNewLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexNewLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
