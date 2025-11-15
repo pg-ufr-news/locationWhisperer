@@ -43,9 +43,9 @@ countriesDf['topicColor'] = randomColors
 countriesDf['keywordColor'] = randomColors
 countriesDf['limitPages'] = 2
 countriesDf['ratioNew'] = 1000/countriesDf['Population']
-countriesDf[countriesDf['ratioNew']>0.98]['ratioNew'] = 0.98
-countriesDf = countriesDf.replace([np.inf], 0.99)
-
+countriesDf[countriesDf['ratioNew']>0.89]['ratioNew'] = 0.89
+countriesDf = countriesDf.replace([np.inf], 0.9)
+countriesDf['ratioNew'] += 0.1
 
 
 capitalsDf = countriesDf.copy() 
@@ -58,7 +58,7 @@ print(capitalsDf)
 bothDf = pd.concat([countriesDf,capitalsDf])
 bothDf = bothDf.sort_values(['ratioNew'])
 bothDf = bothDf[columns]
-#bothDf = bothDf[bothDf[not 'keyword']=="''"]
+##bothDf = bothDf[bothDf[not 'keyword']=="'nan'"]
 #
 print(bothDf)
 
