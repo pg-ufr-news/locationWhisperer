@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vatican',en,Vatican,#2FC369,#2FC369,3,0.942293739483
 'Cocos Islands',en,Cocos Islands,#F02743,#F02743,2,0.940750075000
 'West Island',en,Cocos Islands,#F02743,#F02743,3,0.918607183636
 'Vatican City',en,Vatican,#2FC369,#2FC369,2,0.911055175000
@@ -10,17 +9,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pitcairn',en,Pitcairn,#094533,#094533,1,0.850000105000
 'Adamstown',en,Pitcairn,#094533,#094533,1,0.850000105000
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#2E6403,#2E6403,1,0.850000045000
-'Bouvet Island',en,Bouvet Island,#27AE93,#27AE93,1,0.850000000000
 'Port-aux-Francais',en,French Southern Territories,#7381D1,#7381D1,1,0.850000000000
+'Bouvet Island',en,Bouvet Island,#27AE93,#27AE93,1,0.850000000000
+'Vatican',en,Vatican,#2FC369,#2FC369,3,0.849160800657
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.825137638750
 'Tokelau',en,Tokelau,#C78BAF,#C78BAF,2,0.782128240109
-'Flying Fish Cove',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
 'Christmas Island',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
+'Flying Fish Cove',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
 'Norfolk Island',en,Norfolk Island,#D04291,#D04291,2,0.647045951860
 'Niue',en,Niue,#1172F1,#1172F1,2,0.561680517082
 'Alofi',en,Niue,#1172F1,#1172F1,2,0.561680517082
-'Svalbard and Jan Mayen',en,Svalbard and Jan Mayen,#21020A,#21020A,2,0.492156862745
 'Longyearbyen',en,Svalbard and Jan Mayen,#21020A,#21020A,2,0.492156862745
+'Svalbard and Jan Mayen',en,Svalbard and Jan Mayen,#21020A,#21020A,2,0.492156862745
 'Falkland Islands',en,Falkland Islands,#41E5F2,#41E5F2,2,0.479075056861
 'Stanley',en,Falkland Islands,#41E5F2,#41E5F2,2,0.479075056861
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#6253F2,#6253F2,2,0.350000000000
@@ -31,12 +31,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamestown',en,Saint Helena,#40724C,#40724C,2,0.234048257373
 'Gustavia',en,Saint Barthelemy,#27874B,#27874B,2,0.218343195266
 'Saint Barthelemy',en,Saint Barthelemy,#27874B,#27874B,2,0.218343195266
-'Montserrat',en,Montserrat,#B026B5,#B026B5,2,0.207054919174
 'Plymouth',en,Montserrat,#B026B5,#B026B5,2,0.207054919174
+'Montserrat',en,Montserrat,#B026B5,#B026B5,2,0.207054919174
 'Tuvalu',en,Tuvalu,#527368,#527368,2,0.186896072298
 'Funafuti',en,Tuvalu,#527368,#527368,2,0.186896072298
-'Yaren',en,Nauru,#E94549,#E94549,2,0.178715365239
 'Nauru',en,Nauru,#E94549,#E94549,2,0.178715365239
+'Yaren',en,Nauru,#E94549,#E94549,2,0.178715365239
 'Anguilla',en,Anguilla,#C65E90,#C65E90,2,0.175448921080
 'The Valley',en,Anguilla,#C65E90,#C65E90,2,0.175448921080
 'Mata Utu',en,Wallis and Futuna,#8741F6,#8741F6,2,0.162402496100
@@ -60,8 +60,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vaduz',en,Liechtenstein,#540578,#540578,2,0.126378264310
 'Liechtenstein',en,Liechtenstein,#540578,#540578,2,0.126378264310
 'Monaco',en,Monaco,#2C7B5B,#2C7B5B,2,0.125851817383
-'Philipsburg',en,Sint Maarten,#7E3F2C,#7E3F2C,2,0.124597825552
 'Sint Maarten',en,Sint Maarten,#7E3F2C,#7E3F2C,2,0.124597825552
+'Philipsburg',en,Sint Maarten,#7E3F2C,#7E3F2C,2,0.124597825552
 'Torshavn',en,Faroe Islands,#1BC6F8,#1BC6F8,2,0.120619832155
 'Faroe Islands',en,Faroe Islands,#1BC6F8,#1BC6F8,2,0.120619832155
 'Saint Kitts and Nevis',en,Saint Kitts and Nevis,#8D9CE5,#8D9CE5,2,0.119069049027
@@ -74,10 +74,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saipan',en,Northern Mariana Islands,#224764,#224764,2,0.117580253859
 'Majuro',en,Marshall Islands,#CA5519,#CA5519,2,0.117119476829
 'Marshall Islands',en,Marshall Islands,#CA5519,#CA5519,2,0.117119476829
-'Bermuda',en,Bermuda,#7A3F47,#7A3F47,2,0.115632816408
 'Hamilton',en,Bermuda,#7A3F47,#7A3F47,2,0.115632816408
-'Cayman Islands',en,Cayman Islands,#B12547,#B12547,2,0.115582634712
+'Bermuda',en,Bermuda,#7A3F47,#7A3F47,2,0.115632816408
 'George Town',en,Cayman Islands,#B12547,#B12547,2,0.115582634712
+'Cayman Islands',en,Cayman Islands,#B12547,#B12547,2,0.115582634712
 'Guernsey',en,Guernsey,#96E670,#96E670,2,0.115330839517
 'St Peter Port',en,Guernsey,#96E670,#96E670,2,0.115330839517
 'Dominica',en,Dominica,#FF0585,#FF0585,2,0.113961605585
@@ -88,8 +88,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Douglas',en,Isle of Man,#445953,#445953,2,0.111893859200
 'Saint Helier',en,Jersey,#1A6537,#1A6537,2,0.111011760560
 'Jersey',en,Jersey,#1A6537,#1A6537,2,0.111011760560
-'Antigua and Barbuda',en,Antigua and Barbuda,#DE2F02,#DE2F02,2,0.110385725858
 'St. John's',en,Antigua and Barbuda,#DE2F02,#DE2F02,2,0.110385725858
+'Antigua and Barbuda',en,Antigua and Barbuda,#DE2F02,#DE2F02,2,0.110385725858
 'Victoria',en,Seychelles,#FFF150,#FFF150,2,0.110334635497
 'Seychelles',en,Seychelles,#FFF150,#FFF150,2,0.110334635497
 'Tonga',en,Tonga,#2176CE,#2176CE,2,0.109690204173
@@ -104,8 +104,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grenada',en,Grenada,#38FE32,#38FE32,2,0.108972311447
 'Micronesia',en,Micronesia,#F9F903,#F9F903,2,0.108877840909
 'Palikir',en,Micronesia,#F9F903,#F9F903,2,0.108877840909
-'Kiribati',en,Kiribati,#132CA8,#132CA8,2,0.108632075065
 'Tarawa',en,Kiribati,#132CA8,#132CA8,2,0.108632075065
+'Kiribati',en,Kiribati,#132CA8,#132CA8,2,0.108632075065
 'Curacao',en,Curacao,#3FC145,#3FC145,2,0.106255904009
 'Hagatna',en,Guam,#622C2C,#622C2C,2,0.106032527388
 'Guam',en,Guam,#622C2C,#622C2C,2,0.106032527388
@@ -119,10 +119,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sao Tome',en,Sao Tome and Principe,#54286F,#54286F,2,0.105058168943
 'Western Sahara',en,Western Sahara,#411C16,#411C16,2,0.103662896325
 'El-Aaiun',en,Western Sahara,#411C16,#411C16,2,0.103662896325
-'French Polynesia',en,French Polynesia,#9513AF,#9513AF,2,0.103601280615
 'Papeete',en,French Polynesia,#9513AF,#9513AF,2,0.103601280615
-'Mamoudzou',en,Mayotte,#BAD10F,#BAD10F,2,0.103578188792
+'French Polynesia',en,French Polynesia,#9513AF,#9513AF,2,0.103601280615
 'Mayotte',en,Mayotte,#BAD10F,#BAD10F,2,0.103578188792
+'Mamoudzou',en,Mayotte,#BAD10F,#BAD10F,2,0.103578188792
 'New Caledonia',en,New Caledonia,#299EBB,#299EBB,2,0.103520383018
 'Noumea',en,New Caledonia,#299EBB,#299EBB,2,0.103520383018
 'Barbados',en,Barbados,#521059,#521059,2,0.103488684452
@@ -133,12 +133,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netherlands Antilles',en,Netherlands Antilles,#BC73EC,#BC73EC,2,0.103333333333
 'Reykjavik',en,Iceland,#183D72,#183D72,2,0.102828262259
 'Iceland',en,Iceland,#183D72,#183D72,2,0.102828262259
-'Belize',en,Belize,#812724,#812724,2,0.102610482130
 'Belmopan',en,Belize,#812724,#812724,2,0.102610482130
+'Belize',en,Belize,#812724,#812724,2,0.102610482130
 'Nassau',en,Bahamas,#C01816,#C01816,2,0.102593092003
 'Bahamas',en,Bahamas,#C01816,#C01816,2,0.102593092003
-'Bandar Seri Begawan',en,Brunei,#209C43,#209C43,2,0.102331208825
+'Canada',en,Canada,#56C972,#56C972,2,0.102509565743
 'Brunei',en,Brunei,#209C43,#209C43,2,0.102331208825
+'Bandar Seri Begawan',en,Brunei,#209C43,#209C43,2,0.102331208825
 'Fort-de-France',en,Martinique,#DC1A60,#DC1A60,2,0.102310002310
 'Martinique',en,Martinique,#DC1A60,#DC1A60,2,0.102310002310
 'Basse-Terre',en,Guadeloupe,#8A6DC2,#8A6DC2,2,0.102257336343
@@ -149,11 +150,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Male',en,Maldives,#7B5DD7,#7B5DD7,2,0.101939126927
 'Praia',en,Cabo Verde,#08A34E,#08A34E,2,0.101839022964
 'Cabo Verde',en,Cabo Verde,#08A34E,#08A34E,2,0.101839022964
-'Paramaribo',en,Suriname,#2D30BE,#2D30BE,2,0.101736138238
 'Suriname',en,Suriname,#2D30BE,#2D30BE,2,0.101736138238
+'Paramaribo',en,Suriname,#2D30BE,#2D30BE,2,0.101736138238
 'Luxembourg',en,Luxembourg,#B649A2,#B649A2,2,0.101645472975
-'Montenegro',en,Montenegro,#88024A,#88024A,2,0.101606825796
 'Podgorica',en,Montenegro,#88024A,#88024A,2,0.101606825796
+'Montenegro',en,Montenegro,#88024A,#88024A,2,0.101606825796
 'Macao',en,Macao,#D306A5,#D306A5,2,0.101583190318
 'Honiara',en,Solomon Islands,#C24AAD,#C24AAD,2,0.101531726654
 'Solomon Islands',en,Solomon Islands,#C24AAD,#C24AAD,2,0.101531726654
@@ -163,13 +164,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reunion',en,Reunion,#A32A49,#A32A49,2,0.101287087424
 'Guyana',en,Guyana,#A6EFAE,#A6EFAE,2,0.101283690456
 'Georgetown',en,Guyana,#A6EFAE,#A6EFAE,2,0.101283690456
-'Comoros',en,Comoros,#B064BA,#B064BA,2,0.101201458090
+'Italy',en,Italy,#E8BC0E,#E8BC0E,2,0.101258233310
+'Jakarta',en,Indonesia,#D5E7E9,#D5E7E9,2,0.101245429588
 'Moroni',en,Comoros,#B064BA,#B064BA,2,0.101201458090
+'Comoros',en,Comoros,#B064BA,#B064BA,2,0.101201458090
 'Fiji',en,Fiji,#F18634,#F18634,2,0.101131883692
 'Suva',en,Fiji,#F18634,#F18634,2,0.101131883692
 'Djibouti',en,Djibouti,#586224,#586224,2,0.101042839862
-'Eswatini',en,Eswatini,#D60322,#D60322,2,0.100880133710
 'Mbabane',en,Eswatini,#D60322,#D60322,2,0.100880133710
+'Eswatini',en,Eswatini,#D60322,#D60322,2,0.100880133710
 'Cyprus',en,Cyprus,#02174B,#02174B,2,0.100840855486
 'Nicosia',en,Cyprus,#02174B,#02174B,2,0.100840855486
 'Mauritius',en,Mauritius,#AAB6BF,#AAB6BF,2,0.100790324531
@@ -180,44 +183,44 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Equatorial Guinea',en,Equatorial Guinea,#ADA532,#ADA532,2,0.100763957115
 'Tallinn',en,Estonia,#C4F816,#C4F816,2,0.100757068751
 'Estonia',en,Estonia,#C4F816,#C4F816,2,0.100757068751
-'Trinidad and Tobago',en,Trinidad and Tobago,#EAE184,#EAE184,2,0.100719497963
 'Port of Spain',en,Trinidad and Tobago,#EAE184,#EAE184,2,0.100719497963
-'Bahrain',en,Bahrain,#1A48EC,#1A48EC,2,0.100637170352
+'Trinidad and Tobago',en,Trinidad and Tobago,#EAE184,#EAE184,2,0.100719497963
 'Manama',en,Bahrain,#1A48EC,#1A48EC,2,0.100637170352
+'Bahrain',en,Bahrain,#1A48EC,#1A48EC,2,0.100637170352
 'Pristina',en,Kosovo,#CABB0D,#CABB0D,2,0.100541917303
 'Kosovo',en,Kosovo,#CABB0D,#CABB0D,2,0.100541917303
-'Guinea-Bissau',en,Guinea-Bissau,#00DF6E,#00DF6E,2,0.100533529957
 'Bissau',en,Guinea-Bissau,#00DF6E,#00DF6E,2,0.100533529957
-'Latvia',en,Latvia,#7CC9A3,#7CC9A3,2,0.100519064728
+'Guinea-Bissau',en,Guinea-Bissau,#00DF6E,#00DF6E,2,0.100533529957
 'Riga',en,Latvia,#7CC9A3,#7CC9A3,2,0.100519064728
-'Ljubljana',en,Slovenia,#D65110,#D65110,2,0.100483705884
+'Latvia',en,Latvia,#7CC9A3,#7CC9A3,2,0.100519064728
 'Slovenia',en,Slovenia,#D65110,#D65110,2,0.100483705884
+'Ljubljana',en,Slovenia,#D65110,#D65110,2,0.100483705884
 'Skopje',en,North Macedonia,#26FB2D,#26FB2D,2,0.100480086492
 'North Macedonia',en,North Macedonia,#26FB2D,#26FB2D,2,0.100480086492
-'Lesotho',en,Lesotho,#C4A6CF,#C4A6CF,2,0.100474353598
 'Maseru',en,Lesotho,#C4A6CF,#C4A6CF,2,0.100474353598
-'Libreville',en,Gabon,#F852BB,#F852BB,2,0.100471859480
+'Lesotho',en,Lesotho,#C4A6CF,#C4A6CF,2,0.100474353598
 'Gabon',en,Gabon,#F852BB,#F852BB,2,0.100471859480
+'Libreville',en,Gabon,#F852BB,#F852BB,2,0.100471859480
 'Gaborone',en,Botswana,#6229FA,#6229FA,2,0.100443630924
 'Botswana',en,Botswana,#6229FA,#6229FA,2,0.100443630924
 'Banjul',en,Gambia,#5A9504,#5A9504,2,0.100438576871
 'Gambia',en,Gambia,#5A9504,#5A9504,2,0.100438576871
 'Windhoek',en,Namibia,#606E17,#606E17,2,0.100408454185
 'Namibia',en,Namibia,#606E17,#606E17,2,0.100408454185
-'Qatar',en,Qatar,#5CEA1E,#5CEA1E,2,0.100359495369
 'Doha',en,Qatar,#5CEA1E,#5CEA1E,2,0.100359495369
-'Vilnius',en,Lithuania,#23EDE2,#23EDE2,2,0.100358482943
+'Qatar',en,Qatar,#5CEA1E,#5CEA1E,2,0.100359495369
 'Lithuania',en,Lithuania,#23EDE2,#23EDE2,2,0.100358482943
+'Vilnius',en,Lithuania,#23EDE2,#23EDE2,2,0.100358482943
 'Albania',en,Albania,#9C72EF,#9C72EF,2,0.100348872583
 'Tirana',en,Albania,#9C72EF,#9C72EF,2,0.100348872583
-'Jamaica',en,Jamaica,#4BA3FB,#4BA3FB,2,0.100340732336
 'Kingston',en,Jamaica,#4BA3FB,#4BA3FB,2,0.100340732336
-'Armenia',en,Armenia,#C75E82,#C75E82,2,0.100324212164
+'Jamaica',en,Jamaica,#4BA3FB,#4BA3FB,2,0.100340732336
 'Yerevan',en,Armenia,#C75E82,#C75E82,2,0.100324212164
-'Ulaanbaatar',en,Mongolia,#DF161A,#DF161A,2,0.100315436716
+'Armenia',en,Armenia,#C75E82,#C75E82,2,0.100324212164
 'Mongolia',en,Mongolia,#DF161A,#DF161A,2,0.100315436716
-'San Juan',en,Puerto Rico,#BBCD68,#BBCD68,2,0.100312974058
+'Ulaanbaatar',en,Mongolia,#DF161A,#DF161A,2,0.100315436716
 'Puerto Rico',en,Puerto Rico,#BBCD68,#BBCD68,2,0.100312974058
+'San Juan',en,Puerto Rico,#BBCD68,#BBCD68,2,0.100312974058
 'Bosnia and Herzegovina',en,Bosnia and Herzegovina,#CCA938,#CCA938,2,0.100300848785
 'Sarajevo',en,Bosnia and Herzegovina,#CCA938,#CCA938,2,0.100300848785
 'Uruguay',en,Uruguay,#1ABDF3,#1ABDF3,2,0.100289913980
@@ -226,10 +229,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chisinau',en,Moldova,#E2FF37,#E2FF37,2,0.100282017201
 'Tbilisi',en,Georgia,#24F678,#24F678,2,0.100269941962
 'Georgia',en,Georgia,#24F678,#24F678,2,0.100269941962
-'Croatia',en,Croatia,#770541,#770541,2,0.100258275602
 'Zagreb',en,Croatia,#770541,#770541,2,0.100258275602
-'Kuwait City',en,Kuwait,#B3BAB6,#B3BAB6,2,0.100241703001
+'Croatia',en,Croatia,#770541,#770541,2,0.100258275602
 'Kuwait',en,Kuwait,#B3BAB6,#B3BAB6,2,0.100241703001
+'Kuwait City',en,Kuwait,#B3BAB6,#B3BAB6,2,0.100241703001
 'Panama City',en,Panama,#09E3EC,#09E3EC,2,0.100239413552
 'Panama',en,Panama,#09E3EC,#09E3EC,2,0.100239413552
 'Nouakchott',en,Mauritania,#DE6348,#DE6348,2,0.100227101421
@@ -244,14 +247,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muscat',en,Oman,#8BFC60,#8BFC60,2,0.100207061501
 'Dublin',en,Ireland,#461C7C,#461C7C,2,0.100206036626
 'Ireland',en,Ireland,#461C7C,#461C7C,2,0.100206036626
-'New Zealand',en,New Zealand,#58A0EA,#58A0EA,2,0.100204687340
 'Wellington',en,New Zealand,#58A0EA,#58A0EA,2,0.100204687340
-'San Jose',en,Costa Rica,#D16866,#D16866,2,0.100200022363
+'New Zealand',en,New Zealand,#58A0EA,#58A0EA,2,0.100204687340
 'Costa Rica',en,Costa Rica,#D16866,#D16866,2,0.100200022363
-'Brazzaville',en,Republic of the Congo,#37AAA3,#37AAA3,2,0.100190680927
+'San Jose',en,Costa Rica,#D16866,#D16866,2,0.100200022363
 'Republic of the Congo',en,Republic of the Congo,#37AAA3,#37AAA3,2,0.100190680927
-'Oslo',en,Norway,#71BF58,#71BF58,2,0.100188170262
+'Brazzaville',en,Republic of the Congo,#37AAA3,#37AAA3,2,0.100190680927
 'Norway',en,Norway,#71BF58,#71BF58,2,0.100188170262
+'Oslo',en,Norway,#71BF58,#71BF58,2,0.100188170262
 'Slovakia',en,Slovakia,#7026D8,#7026D8,2,0.100183586925
 'Bratislava',en,Slovakia,#7026D8,#7026D8,2,0.100183586925
 'Finland',en,Finland,#BB2F72,#BB2F72,2,0.100181223439
@@ -261,8 +264,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Copenhagen',en,Denmark,#8283B6,#8283B6,2,0.100172489748
 'Turkmenistan',en,Turkmenistan,#202245,#202245,2,0.100170913643
 'Ashgabat',en,Turkmenistan,#202245,#202245,2,0.100170913643
-'Asmara',en,Eritrea,#2479CC,#2479CC,2,0.100161049735
 'Eritrea',en,Eritrea,#2479CC,#2479CC,2,0.100161049735
+'Asmara',en,Eritrea,#2479CC,#2479CC,2,0.100161049735
 'Bishkek',en,Kyrgyzstan,#BC9A4C,#BC9A4C,2,0.100158333069
 'Kyrgyzstan',en,Kyrgyzstan,#BC9A4C,#BC9A4C,2,0.100158333069
 'San Salvador',en,El Salvador,#ED5B9B,#ED5B9B,2,0.100155745191
@@ -271,26 +274,26 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Managua',en,Nicaragua,#4D67ED,#4D67ED,2,0.100154666768
 'Tripoli',en,Libya,#7D16ED,#7D16ED,2,0.100149732720
 'Libya',en,Libya,#7D16ED,#7D16ED,2,0.100149732720
-'Beirut',en,Lebanon,#E236D1,#E236D1,2,0.100146008315
 'Lebanon',en,Lebanon,#E236D1,#E236D1,2,0.100146008315
-'Paraguay',en,Paraguay,#5805EE,#5805EE,2,0.100143759315
+'Beirut',en,Lebanon,#E236D1,#E236D1,2,0.100146008315
 'Asuncion',en,Paraguay,#5805EE,#5805EE,2,0.100143759315
+'Paraguay',en,Paraguay,#5805EE,#5805EE,2,0.100143759315
 'Serbia',en,Serbia,#792DFD,#792DFD,2,0.100143223714
 'Sofia',en,Bulgaria,#026969,#026969,2,0.100142856347
 'Bulgaria',en,Bulgaria,#026969,#026969,2,0.100142856347
 'Laos',en,Laos,#1D4D77,#1D4D77,2,0.100141612831
 'Vientiane',en,Laos,#1D4D77,#1D4D77,2,0.100141612831
 'Hong Kong',en,Hong Kong,#AB9442,#AB9442,2,0.100135206831
-'Sierra Leone',en,Sierra Leone,#893A5F,#893A5F,2,0.100130716323
 'Freetown',en,Sierra Leone,#893A5F,#893A5F,2,0.100130716323
-'Lome',en,Togo,#407D25,#407D25,2,0.100126757268
+'Sierra Leone',en,Sierra Leone,#893A5F,#893A5F,2,0.100130716323
 'Togo',en,Togo,#407D25,#407D25,2,0.100126757268
+'Lome',en,Togo,#407D25,#407D25,2,0.100126757268
 'Juba',en,South Sudan,#BBF5DE,#BBF5DE,2,0.100121058194
 'South Sudan',en,South Sudan,#BBF5DE,#BBF5DE,2,0.100121058194
 'Switzerland',en,Switzerland,#33B088,#33B088,2,0.100117418535
 'Bern',en,Switzerland,#33B088,#33B088,2,0.100117418535
-'Port Moresby',en,Papua New Guinea,#B651C2,#B651C2,2,0.100116193735
 'Papua New Guinea',en,Papua New Guinea,#B651C2,#B651C2,2,0.100116193735
+'Port Moresby',en,Papua New Guinea,#B651C2,#B651C2,2,0.100116193735
 'Vienna',en,Austria,#EFA029,#EFA029,2,0.100113032194
 'Austria',en,Austria,#EFA029,#EFA029,2,0.100113032194
 'Jerusalem',en,Israel,#56270E,#56270E,2,0.100112564443
@@ -299,22 +302,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dushanbe',en,Tajikistan,#54C88F,#54C88F,2,0.100109880003
 'Belarus',en,Belarus,#1A895E,#1A895E,2,0.100105425335
 'Minsk',en,Belarus,#1A895E,#1A895E,2,0.100105425335
-'Tegucigalpa',en,Honduras,#462244,#462244,2,0.100104302238
 'Honduras',en,Honduras,#462244,#462244,2,0.100104302238
+'Tegucigalpa',en,Honduras,#462244,#462244,2,0.100104302238
 'United Arab Emirates',en,United Arab Emirates,#27EE05,#27EE05,2,0.100103831820
 'Abu Dhabi',en,United Arab Emirates,#27EE05,#27EE05,2,0.100103831820
-'Hungary',en,Hungary,#DA119C,#DA119C,2,0.100102366876
 'Budapest',en,Hungary,#DA119C,#DA119C,2,0.100102366876
-'Amman',en,Jordan,#18440B,#18440B,2,0.100100441834
+'Hungary',en,Hungary,#DA119C,#DA119C,2,0.100102366876
 'Jordan',en,Jordan,#18440B,#18440B,2,0.100100441834
+'Amman',en,Jordan,#18440B,#18440B,2,0.100100441834
 'Sweden',en,Sweden,#A1543E,#A1543E,2,0.100098201200
 'Stockholm',en,Sweden,#A1543E,#A1543E,2,0.100098201200
 'Baku',en,Azerbaijan,#340B61,#340B61,2,0.100097800467
 'Azerbaijan',en,Azerbaijan,#340B61,#340B61,2,0.100097800467
-'Lisbon',en,Portugal,#F07978,#F07978,2,0.100097259594
 'Portugal',en,Portugal,#F07978,#F07978,2,0.100097259594
-'Prague',en,Czechia,#A596B5,#A596B5,2,0.100094111491
+'Lisbon',en,Portugal,#F07978,#F07978,2,0.100097259594
 'Czechia',en,Czechia,#A596B5,#A596B5,2,0.100094111491
+'Prague',en,Czechia,#A596B5,#A596B5,2,0.100094111491
 'Santo Domingo',en,Dominican Republic,#E9A825,#E9A825,2,0.100094098473
 'Dominican Republic',en,Dominican Republic,#E9A825,#E9A825,2,0.100094098473
 'Greece',en,Greece,#236BF1,#236BF1,2,0.100093216904
@@ -331,28 +334,28 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sucre',en,Bolivia,#83248A,#83248A,2,0.100088081343
 'Belgium',en,Belgium,#D2410B,#D2410B,2,0.100087549820
 'Brussels',en,Belgium,#D2410B,#D2410B,2,0.100087549820
-'Benin',en,Benin,#51B905,#51B905,2,0.100087069728
 'Porto-Novo',en,Benin,#51B905,#51B905,2,0.100087069728
+'Benin',en,Benin,#51B905,#51B905,2,0.100087069728
 'Tunisia',en,Tunisia,#EA8B45,#EA8B45,2,0.100086466266
 'Tunis',en,Tunisia,#EA8B45,#EA8B45,2,0.100086466266
-'Kigali',en,Rwanda,#258180,#258180,2,0.100081287999
 'Rwanda',en,Rwanda,#258180,#258180,2,0.100081287999
+'Kigali',en,Rwanda,#258180,#258180,2,0.100081287999
 'Conakry',en,Guinea,#45D51B,#45D51B,2,0.100080552150
 'Guinea',en,Guinea,#45D51B,#45D51B,2,0.100080552150
 'Somalia',en,Somalia,#CBE963,#CBE963,2,0.100066630446
 'Mogadishu',en,Somalia,#CBE963,#CBE963,2,0.100066630446
-'Chad',en,Chad,#1E8169,#1E8169,2,0.100064608870
 'N'Djamena',en,Chad,#1E8169,#1E8169,2,0.100064608870
-'Dakar',en,Senegal,#3BE2EF,#3BE2EF,2,0.100063074132
+'Chad',en,Chad,#1E8169,#1E8169,2,0.100064608870
 'Senegal',en,Senegal,#3BE2EF,#3BE2EF,2,0.100063074132
+'Dakar',en,Senegal,#3BE2EF,#3BE2EF,2,0.100063074132
 'Cambodia',en,Cambodia,#3C85C5,#3C85C5,2,0.100061539227
 'Phnom Penh',en,Cambodia,#3C85C5,#3C85C5,2,0.100061539227
-'Harare',en,Zimbabwe,#9F374D,#9F374D,2,0.100059282414
 'Zimbabwe',en,Zimbabwe,#9F374D,#9F374D,2,0.100059282414
+'Harare',en,Zimbabwe,#9F374D,#9F374D,2,0.100059282414
 'Damascus',en,Syria,#B28ACF,#B28ACF,2,0.100059149607
 'Syria',en,Syria,#B28ACF,#B28ACF,2,0.100059149607
-'Ecuador',en,Ecuador,#9AC74B,#9AC74B,2,0.100058533078
 'Quito',en,Ecuador,#9AC74B,#9AC74B,2,0.100058533078
+'Ecuador',en,Ecuador,#9AC74B,#9AC74B,2,0.100058533078
 'Amsterdam',en,The Netherlands,#3683C0,#3683C0,2,0.100058034880
 'The Netherlands',en,The Netherlands,#3683C0,#3683C0,2,0.100058034880
 'Guatemala City',en,Guatemala,#D8D36E,#D8D36E,2,0.100057978385
@@ -371,24 +374,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romania',en,Romania,#876223,#876223,2,0.100051350687
 'Burkina Faso',en,Burkina Faso,#97943D,#97943D,2,0.100050628976
 'Ouagadougou',en,Burkina Faso,#97943D,#97943D,2,0.100050628976
-'Colombo',en,Sri Lanka,#00A084,#00A084,2,0.100046146747
 'Sri Lanka',en,Sri Lanka,#00A084,#00A084,2,0.100046146747
-'Niger',en,Niger,#269539,#269539,2,0.100044557426
+'Colombo',en,Sri Lanka,#00A084,#00A084,2,0.100046146747
 'Niamey',en,Niger,#269539,#269539,2,0.100044557426
+'Niger',en,Niger,#269539,#269539,2,0.100044557426
 'Taipei',en,Taiwan,#1A08D7,#1A08D7,2,0.100042640583
 'Taiwan',en,Taiwan,#1A08D7,#1A08D7,2,0.100042640583
-'Canberra',en,Australia,#8F5ACC,#8F5ACC,2,0.100040012213
 'Australia',en,Australia,#8F5ACC,#8F5ACC,2,0.100040012213
+'Canberra',en,Australia,#8F5ACC,#8F5ACC,2,0.100040012213
 'Ivory Coast',en,Ivory Coast,#A93AF5,#A93AF5,2,0.100039889539
 'Yamoussoukro',en,Ivory Coast,#A93AF5,#A93AF5,2,0.100039889539
 'Yaounde',en,Cameroon,#400F21,#400F21,2,0.100039656988
 'Cameroon',en,Cameroon,#400F21,#400F21,2,0.100039656988
-'North Korea',en,North Korea,#E3BEB6,#E3BEB6,2,0.100039139221
 'Pyongyang',en,North Korea,#E3BEB6,#E3BEB6,2,0.100039139221
+'North Korea',en,North Korea,#E3BEB6,#E3BEB6,2,0.100039139221
 'Antananarivo',en,Madagascar,#52EBF5,#52EBF5,2,0.100038077298
 'Madagascar',en,Madagascar,#52EBF5,#52EBF5,2,0.100038077298
-'Kathmandu',en,Nepal,#DC4870,#DC4870,2,0.100035602556
 'Nepal',en,Nepal,#DC4870,#DC4870,2,0.100035602556
+'Kathmandu',en,Nepal,#DC4870,#DC4870,2,0.100035602556
 'Sanaa',en,Yemen,#218B90,#218B90,2,0.100035089336
 'Yemen',en,Yemen,#218B90,#218B90,2,0.100035089336
 'Caracas',en,Venezuela,#F37B24,#F37B24,2,0.100034637799
@@ -397,26 +400,25 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maputo',en,Mozambique,#414337,#414337,2,0.100033902946
 'Accra',en,Ghana,#E7B471,#E7B471,2,0.100033594127
 'Ghana',en,Ghana,#E7B471,#E7B471,2,0.100033594127
-'Luanda',en,Angola,#E456EA,#E456EA,2,0.100032457245
 'Angola',en,Angola,#E456EA,#E456EA,2,0.100032457245
-'Kuala Lumpur',en,Malaysia,#D8CBE9,#D8CBE9,2,0.100031717250
+'Luanda',en,Angola,#E456EA,#E456EA,2,0.100032457245
 'Malaysia',en,Malaysia,#D8CBE9,#D8CBE9,2,0.100031717250
+'Kuala Lumpur',en,Malaysia,#D8CBE9,#D8CBE9,2,0.100031717250
 'Peru',en,Peru,#EECCE3,#EECCE3,2,0.100031260496
 'Lima',en,Peru,#EECCE3,#EECCE3,2,0.100031260496
-'Uzbekistan',en,Uzbekistan,#6D9C3B,#6D9C3B,2,0.100030344041
 'Tashkent',en,Uzbekistan,#6D9C3B,#6D9C3B,2,0.100030344041
+'Uzbekistan',en,Uzbekistan,#6D9C3B,#6D9C3B,2,0.100030344041
 'Saudi Arabia',en,Saudi Arabia,#E4EF0C,#E4EF0C,2,0.100029673637
 'Riyadh',en,Saudi Arabia,#E4EF0C,#E4EF0C,2,0.100029673637
-'Morocco',en,Morocco,#234C01,#234C01,2,0.100027755313
 'Rabat',en,Morocco,#234C01,#234C01,2,0.100027755313
-'Canada',en,Canada,#56C972,#56C972,2,0.100026984103
+'Morocco',en,Morocco,#234C01,#234C01,2,0.100027755313
 'Ottawa',en,Canada,#56C972,#56C972,2,0.100026984103
 'Kabul',en,Afghanistan,#C6C412,#C6C412,2,0.100026901690
 'Afghanistan',en,Afghanistan,#C6C412,#C6C412,2,0.100026901690
-'Poland',en,Poland,#439DD4,#439DD4,2,0.100026330654
 'Warsaw',en,Poland,#439DD4,#439DD4,2,0.100026330654
-'Baghdad',en,Iraq,#A766A6,#A766A6,2,0.100026018900
+'Poland',en,Poland,#439DD4,#439DD4,2,0.100026330654
 'Iraq',en,Iraq,#A766A6,#A766A6,2,0.100026018900
+'Baghdad',en,Iraq,#A766A6,#A766A6,2,0.100026018900
 'Sudan',en,Sudan,#23CA68,#23CA68,2,0.100023922568
 'Khartoum',en,Sudan,#23CA68,#23CA68,2,0.100023922568
 'Algiers',en,Algeria,#190CC2,#190CC2,2,0.100023680729
@@ -442,11 +444,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pretoria',en,South Africa,#E7381D,#E7381D,2,0.100017307140
 'South Africa',en,South Africa,#E7381D,#E7381D,2,0.100017307140
 'Rome',en,Italy,#E8BC0E,#E8BC0E,2,0.100016547721
-'Italy',en,Italy,#E8BC0E,#E8BC0E,2,0.100016547721
 'London',en,United Kingdom,#B78CE7,#B78CE7,2,0.100015040084
 'United Kingdom',en,United Kingdom,#B78CE7,#B78CE7,2,0.100015040084
-'Paris',en,France,#06770C,#06770C,2,0.100014928215
 'France',en,France,#06770C,#06770C,2,0.100014928215
+'Paris',en,France,#06770C,#06770C,2,0.100014928215
 'Thailand',en,Thailand,#E874FD,#E874FD,2,0.100014403302
 'Bangkok',en,Thailand,#E874FD,#E874FD,2,0.100014403302
 'Tehran',en,Iran,#473E0D,#473E0D,2,0.100012224899
@@ -471,15 +472,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tokyo',en,Japan,#10E004,#10E004,2,0.100007903320
 'Russia',en,Russia,#DA707A,#DA707A,2,0.100006921467
 'Moscow',en,Russia,#DA707A,#DA707A,2,0.100006921467
-'Bangladesh',en,Bangladesh,#E340F5,#E340F5,2,0.100006197475
 'Dhaka',en,Bangladesh,#E340F5,#E340F5,2,0.100006197475
+'Bangladesh',en,Bangladesh,#E340F5,#E340F5,2,0.100006197475
 'Abuja',en,Nigeria,#F709C9,#F709C9,2,0.100005105304
 'Nigeria',en,Nigeria,#F709C9,#F709C9,2,0.100005105304
 'Brazil',en,Brazil,#C9B1A9,#C9B1A9,2,0.100004773969
 'Brasilia',en,Brazil,#C9B1A9,#C9B1A9,2,0.100004773969
 'Islamabad',en,Pakistan,#7B5FAF,#7B5FAF,2,0.100004712202
 'Pakistan',en,Pakistan,#7B5FAF,#7B5FAF,2,0.100004712202
-'Jakarta',en,Indonesia,#D5E7E9,#D5E7E9,2,0.100003736035
 'Indonesia',en,Indonesia,#D5E7E9,#D5E7E9,2,0.100003736035
 'Washington',en,United States,#DFCDD8,#DFCDD8,2,0.100003056539
 'United States',en,United States,#DFCDD8,#DFCDD8,2,0.100003056539
