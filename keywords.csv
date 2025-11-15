@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,2,0.970750075000
 'Vatican',en,Vatican,#2FC369,#2FC369,3,0.942293739483
 'Cocos Islands',en,Cocos Islands,#F02743,#F02743,2,0.940750075000
 'West Island',en,Cocos Islands,#F02743,#F02743,3,0.918607183636
@@ -11,8 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pitcairn',en,Pitcairn,#094533,#094533,1,0.850000105000
 'Adamstown',en,Pitcairn,#094533,#094533,1,0.850000105000
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#2E6403,#2E6403,1,0.850000045000
-'Port-aux-Francais',en,French Southern Territories,#7381D1,#7381D1,1,0.850000000000
 'Bouvet Island',en,Bouvet Island,#27AE93,#27AE93,1,0.850000000000
+'Port-aux-Francais',en,French Southern Territories,#7381D1,#7381D1,1,0.850000000000
+'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.825137638750
 'Tokelau',en,Tokelau,#C78BAF,#C78BAF,2,0.782128240109
 'Flying Fish Cove',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
 'Christmas Island',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alofi',en,Niue,#1172F1,#1172F1,2,0.561680517082
 'Svalbard and Jan Mayen',en,Svalbard and Jan Mayen,#21020A,#21020A,2,0.492156862745
 'Longyearbyen',en,Svalbard and Jan Mayen,#21020A,#21020A,2,0.492156862745
-'Stanley',en,Falkland Islands,#41E5F2,#41E5F2,2,0.479075056861
 'Falkland Islands',en,Falkland Islands,#41E5F2,#41E5F2,2,0.479075056861
+'Stanley',en,Falkland Islands,#41E5F2,#41E5F2,2,0.479075056861
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#6253F2,#6253F2,2,0.350000000000
 'Diego Garcia',en,British Indian Ocean Territory,#6253F2,#6253F2,2,0.350000000000
 'Saint Pierre and Miquelon',en,Saint Pierre and Miquelon,#72BC0E,#72BC0E,2,0.242612664005
