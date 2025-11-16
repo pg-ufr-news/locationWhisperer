@@ -8,6 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Christmas Island',en,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Flying Fish Cove',en,Christmas Island,#a417d0,#a417d0,2,0.766666666667,INDIAN,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.765750075000,,-1,,,,,
+'McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.89,,-1,,,,,
+'Heard Island',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.89,,-1,,,,,
 'Vatican',en,Vatican,#6ed4ee,#6ed4ee,3,0.754022352831,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatican City,MED
 'Adamstown',en,Pitcairn,#b29713,#b29713,1,0.744978765679,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairn Islands,SPO
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.742450222000,PACIFIC,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
