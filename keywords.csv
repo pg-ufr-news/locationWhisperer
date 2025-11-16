@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Port-aux-Francais',en,French Southern Territories,#210e80,#210e80,1,0.850000000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Vatican',en,Vatican,#6ed4ee,#6ed4ee,3,0.849160800657,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatican City,MED
 'Vatican City',en,Vatican,#6ed4ee,#6ed4ee,2,0.832277700202,EUROPE-AFRICA,6691831,41.902680000000,12.454140000000,P,Vatican City,MED
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.825137638750,,-1,,,,,
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722950083250,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,2,0.722777527750,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
 'Bouvet Island',en,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
+'Port-aux-Francais',en,French Southern Territories,#210e80,#210e80,1,0.722500000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Alofi',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Niue',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
