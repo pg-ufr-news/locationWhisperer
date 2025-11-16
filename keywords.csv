@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,3,0.821255170955,SOUTHERN,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'Heard Island',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,2,0.803499560000,,-1,,,,,
 'Cocos Islands',en,Cocos Islands,#8616cc,#8616cc,1,0.799637638750,INDIAN,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Pitcairn',en,Pitcairn,#b29713,#b29713,2,0.798400179250,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
@@ -15,9 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.742450222000,PACIFIC,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722950083250,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,2,0.722777527750,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
-'Bouvet Island',en,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Port-aux-Francais',en,French Southern Territories,#210e80,#210e80,1,0.722500000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
+'Bouvet Island',en,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Vatican City',en,Vatican,#6ed4ee,#6ed4ee,2,0.716928705172,EUROPE-AFRICA,6691831,41.902680000000,12.454140000000,P,Vatican City,MED
+'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,2,0.698067255312,SOUTHERN,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Niue',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Alofi',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
