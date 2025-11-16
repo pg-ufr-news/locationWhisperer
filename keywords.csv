@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Grytviken',en,South Georgia and the South Sandwich Islands,#2E6403,#2E6403,2,0.850150015000
 'French Southern Territories',en,French Southern Territories,#7381D1,#7381D1,1,0.850000330000
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#268C87,#268C87,1,0.850000120000
 'Pitcairn',en,Pitcairn,#094533,#094533,1,0.850000105000
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tokelau',en,Tokelau,#C78BAF,#C78BAF,2,0.782128240109
 'Christmas Island',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
 'Flying Fish Cove',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
+'Grytviken',en,South Georgia and the South Sandwich Islands,#2E6403,#2E6403,2,0.722777527750
 'Norfolk Island',en,Norfolk Island,#D04291,#D04291,2,0.647045951860
 'Alofi',en,Niue,#1172F1,#1172F1,2,0.561680517082
 'Niue',en,Niue,#1172F1,#1172F1,2,0.561680517082
