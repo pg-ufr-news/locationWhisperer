@@ -1,10 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#268C87,#268C87,1,0.850000120000
-'Pitcairn',en,Pitcairn,#094533,#094533,1,0.850000105000
 'Adamstown',en,Pitcairn,#094533,#094533,1,0.850000105000
+'Pitcairn',en,Pitcairn,#094533,#094533,1,0.850000105000
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#2E6403,#2E6403,1,0.850000045000
-'Port-aux-Francais',en,French Southern Territories,#7381D1,#7381D1,1,0.850000000000
 'Bouvet Island',en,Bouvet Island,#27AE93,#27AE93,1,0.850000000000
+'Port-aux-Francais',en,French Southern Territories,#7381D1,#7381D1,1,0.850000000000
 'Vatican',en,Vatican,#2FC369,#2FC369,3,0.849160800657
 'Vatican City',en,Vatican,#2FC369,#2FC369,2,0.832277700202
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.825137638750
@@ -13,8 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cocos Islands',en,Cocos Islands,#F02743,#F02743,1,0.799637638750
 'Antarctica',en,Antarctica,#D804CF,#D804CF,3,0.795161441618
 'Tokelau',en,Tokelau,#C78BAF,#C78BAF,2,0.782128240109
-'Christmas Island',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
 'Flying Fish Cove',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
+'Christmas Island',en,Christmas Island,#6EEB90,#6EEB90,2,0.766666666667
+'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#268C87,#268C87,1,0.742450222000
 'Grytviken',en,South Georgia and the South Sandwich Islands,#2E6403,#2E6403,2,0.722777527750
 'Norfolk Island',en,Norfolk Island,#D04291,#D04291,2,0.647045951860
 'Alofi',en,Niue,#1172F1,#1172F1,2,0.561680517082
@@ -29,60 +29,60 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saint-Pierre',en,Saint Pierre and Miquelon,#72BC0E,#72BC0E,2,0.242612664005
 'Jamestown',en,Saint Helena,#40724C,#40724C,2,0.234048257373
 'Saint Helena',en,Saint Helena,#40724C,#40724C,2,0.234048257373
-'Gustavia',en,Saint Barthelemy,#27874B,#27874B,2,0.218343195266
 'Saint Barthelemy',en,Saint Barthelemy,#27874B,#27874B,2,0.218343195266
+'Gustavia',en,Saint Barthelemy,#27874B,#27874B,2,0.218343195266
 'Plymouth',en,Montserrat,#B026B5,#B026B5,2,0.208197462672
 'Montserrat',en,Montserrat,#B026B5,#B026B5,2,0.207054919174
-'Tuvalu',en,Tuvalu,#527368,#527368,2,0.186896072298
 'Funafuti',en,Tuvalu,#527368,#527368,2,0.186896072298
+'Tuvalu',en,Tuvalu,#527368,#527368,2,0.186896072298
 'Yaren',en,Nauru,#E94549,#E94549,2,0.178715365239
 'Nauru',en,Nauru,#E94549,#E94549,2,0.178715365239
 'Anguilla',en,Anguilla,#C65E90,#C65E90,2,0.175448921080
 'The Valley',en,Anguilla,#C65E90,#C65E90,2,0.175448921080
 'Mata Utu',en,Wallis and Futuna,#8741F6,#8741F6,2,0.162402496100
 'Wallis and Futuna',en,Wallis and Futuna,#8741F6,#8741F6,2,0.162402496100
-'Palau',en,Palau,#34CA8F,#34CA8F,2,0.155844083319
 'Melekeok',en,Palau,#34CA8F,#34CA8F,2,0.155844083319
+'Palau',en,Palau,#34CA8F,#34CA8F,2,0.155844083319
 'nan',en,Bonaire; Saint Eustatius and Saba ,#4B513A,#4B513A,2,0.155518543193
 'Bonaire; Saint Eustatius and Saba',en,Bonaire; Saint Eustatius and Saba ,#4B513A,#4B513A,2,0.155518543193
 'Avarua',en,Cook Islands,#C8DB25,#C8DB25,2,0.146755189826
 'Cook Islands',en,Cook Islands,#C8DB25,#C8DB25,2,0.146755189826
 'British Virgin Islands',en,British Virgin Islands,#AB4EB7,#AB4EB7,2,0.138418856561
-'Mariehamn',en,Aland Islands,#5FBE63,#5FBE63,2,0.137437759724
 'Aland Islands',en,Aland Islands,#5FBE63,#5FBE63,2,0.137437759724
+'Mariehamn',en,Aland Islands,#5FBE63,#5FBE63,2,0.137437759724
 'Gibraltar',en,Gibraltar,#948B32,#948B32,2,0.134534534152
 'Road Town',en,British Virgin Islands,#AB4EB7,#AB4EB7,2,0.133554794980
 'San Marino',en,San Marino,#7ACD5D,#7ACD5D,2,0.129598934438
-'Saint Martin',en,Saint Martin,#A27A91,#A27A91,2,0.126835551739
 'Marigot',en,Saint Martin,#A27A91,#A27A91,2,0.126835551739
+'Saint Martin',en,Saint Martin,#A27A91,#A27A91,2,0.126835551739
 'Cockburn Town',en,Turks and Caicos Islands,#99D41F,#99D41F,2,0.126549847338
 'Turks and Caicos Islands',en,Turks and Caicos Islands,#99D41F,#99D41F,2,0.126549847338
 'Vaduz',en,Liechtenstein,#540578,#540578,2,0.126378264310
 'Liechtenstein',en,Liechtenstein,#540578,#540578,2,0.126378264310
 'Monaco',en,Monaco,#2C7B5B,#2C7B5B,2,0.125851817383
 'Faroe Islands',en,Faroe Islands,#1BC6F8,#1BC6F8,2,0.125524782492
-'Sint Maarten',en,Sint Maarten,#7E3F2C,#7E3F2C,2,0.124597825552
 'Philipsburg',en,Sint Maarten,#7E3F2C,#7E3F2C,2,0.124597825552
+'Sint Maarten',en,Sint Maarten,#7E3F2C,#7E3F2C,2,0.124597825552
 'Greenland',en,Greenland,#9E4F12,#9E4F12,2,0.122762381275
 'Torshavn',en,Faroe Islands,#1BC6F8,#1BC6F8,2,0.120619832155
 'Saint Kitts and Nevis',en,Saint Kitts and Nevis,#8D9CE5,#8D9CE5,2,0.119069049027
 'Basseterre',en,Saint Kitts and Nevis,#8D9CE5,#8D9CE5,2,0.119069049027
-'Pago Pago',en,American Samoa,#178A95,#178A95,2,0.118029387902
 'American Samoa',en,American Samoa,#178A95,#178A95,2,0.118029387902
+'Pago Pago',en,American Samoa,#178A95,#178A95,2,0.118029387902
 'Andorra',en,Andorra,#F5152D,#F5152D,2,0.117913267915
 'Nuuk',en,Greenland,#9E4F12,#9E4F12,2,0.117849174476
 'Northern Mariana Islands',en,Northern Mariana Islands,#224764,#224764,2,0.117580253859
 'Saipan',en,Northern Mariana Islands,#224764,#224764,2,0.117580253859
 'Majuro',en,Marshall Islands,#CA5519,#CA5519,2,0.117119476829
 'Marshall Islands',en,Marshall Islands,#CA5519,#CA5519,2,0.117119476829
-'Bermuda',en,Bermuda,#7A3F47,#7A3F47,2,0.115632816408
 'Hamilton',en,Bermuda,#7A3F47,#7A3F47,2,0.115632816408
+'Bermuda',en,Bermuda,#7A3F47,#7A3F47,2,0.115632816408
 'Cayman Islands',en,Cayman Islands,#B12547,#B12547,2,0.115582634712
 'George Town',en,Cayman Islands,#B12547,#B12547,2,0.115582634712
 'Guernsey',en,Guernsey,#96E670,#96E670,2,0.115330839517
 'St Peter Port',en,Guernsey,#96E670,#96E670,2,0.115330839517
-'Roseau',en,Dominica,#FF0585,#FF0585,2,0.113961605585
 'Dominica',en,Dominica,#FF0585,#FF0585,2,0.113961605585
+'Roseau',en,Dominica,#FF0585,#FF0585,2,0.113961605585
 'Andorra la Vella',en,Andorra,#F5152D,#F5152D,2,0.112986001091
 'Isle of Man',en,Isle of Man,#445953,#445953,2,0.111893859200
 'Douglas',en,Isle of Man,#445953,#445953,2,0.111893859200
@@ -91,11 +91,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jersey',en,Jersey,#1A6537,#1A6537,2,0.111011760560
 'St. John's',en,Antigua and Barbuda,#DE2F02,#DE2F02,2,0.110385725858
 'Antigua and Barbuda',en,Antigua and Barbuda,#DE2F02,#DE2F02,2,0.110385725858
-'Seychelles',en,Seychelles,#FFF150,#FFF150,2,0.110334635497
 'Victoria',en,Seychelles,#FFF150,#FFF150,2,0.110334635497
+'Seychelles',en,Seychelles,#FFF150,#FFF150,2,0.110334635497
 'Canada',en,Canada,#56C972,#56C972,2,0.109938188863
-'Nuku'alofa',en,Tonga,#2176CE,#2176CE,2,0.109690204173
 'Tonga',en,Tonga,#2176CE,#2176CE,2,0.109690204173
+'Nuku'alofa',en,Tonga,#2176CE,#2176CE,2,0.109690204173
 'Oranjestad',en,Aruba,#229823,#229823,2,0.109447777410
 'Aruba',en,Aruba,#229823,#229823,2,0.109447777410
 'U.S. Virgin Islands',en,U.S. Virgin Islands,#2E29F3,#2E29F3,2,0.109347803734
@@ -106,8 +106,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grenada',en,Grenada,#38FE32,#38FE32,2,0.108972311447
 'Micronesia',en,Micronesia,#F9F903,#F9F903,2,0.108877840909
 'Palikir',en,Micronesia,#F9F903,#F9F903,2,0.108877840909
-'Kiribati',en,Kiribati,#132CA8,#132CA8,2,0.108632075065
 'Tarawa',en,Kiribati,#132CA8,#132CA8,2,0.108632075065
+'Kiribati',en,Kiribati,#132CA8,#132CA8,2,0.108632075065
 'Fort-de-France',en,Martinique,#DC1A60,#DC1A60,2,0.108503211938
 'Iceland',en,Iceland,#183D72,#183D72,2,0.107783107584
 'Curacao',en,Curacao,#3FC145,#3FC145,2,0.106255904009
@@ -126,8 +126,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apia',en,Samoa,#B8E67E,#B8E67E,2,0.105098659053
 'Samoa',en,Samoa,#B8E67E,#B8E67E,2,0.105098659053
 'Hungary',en,Hungary,#DA119C,#DA119C,2,0.105064198477
-'Sao Tome and Principe',en,Sao Tome and Principe,#54286F,#54286F,2,0.105058168943
 'Sao Tome',en,Sao Tome and Principe,#54286F,#54286F,2,0.105058168943
+'Sao Tome and Principe',en,Sao Tome and Principe,#54286F,#54286F,2,0.105058168943
 'Greece',en,Greece,#236BF1,#236BF1,2,0.105055071659
 'Cuba',en,Cuba,#E5E3B0,#E5E3B0,2,0.105050065358
 'Belgium',en,Belgium,#D2410B,#D2410B,2,0.105049418915
@@ -139,8 +139,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rome',en,Italy,#E8BC0E,#E8BC0E,2,0.103739266329
 'El-Aaiun',en,Western Sahara,#411C16,#411C16,2,0.103662896325
 'Western Sahara',en,Western Sahara,#411C16,#411C16,2,0.103662896325
-'French Polynesia',en,French Polynesia,#9513AF,#9513AF,2,0.103601280615
 'Papeete',en,French Polynesia,#9513AF,#9513AF,2,0.103601280615
+'French Polynesia',en,French Polynesia,#9513AF,#9513AF,2,0.103601280615
 'Mamoudzou',en,Mayotte,#BAD10F,#BAD10F,2,0.103578188792
 'New Caledonia',en,New Caledonia,#299EBB,#299EBB,2,0.103520383018
 'Noumea',en,New Caledonia,#299EBB,#299EBB,2,0.103520383018
@@ -153,8 +153,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'New Zealand',en,New Zealand,#58A0EA,#58A0EA,2,0.102687046586
 'Belize',en,Belize,#812724,#812724,2,0.102610482130
 'Belmopan',en,Belize,#812724,#812724,2,0.102610482130
-'Bahamas',en,Bahamas,#C01816,#C01816,2,0.102593092003
 'Nassau',en,Bahamas,#C01816,#C01816,2,0.102593092003
+'Bahamas',en,Bahamas,#C01816,#C01816,2,0.102593092003
 'United Arab Emirates',en,United Arab Emirates,#27EE05,#27EE05,2,0.102586317332
 'Russia',en,Russia,#DA707A,#DA707A,2,0.102489528191
 'China',en,China,#E08030,#E08030,2,0.102483322818
@@ -168,10 +168,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malta',en,Malta,#02774C,#02774C,2,0.102068124005
 'Maldives',en,Maldives,#7B5DD7,#7B5DD7,2,0.101939126927
 'Male',en,Maldives,#7B5DD7,#7B5DD7,2,0.101939126927
-'Cabo Verde',en,Cabo Verde,#08A34E,#08A34E,2,0.101839022964
 'Praia',en,Cabo Verde,#08A34E,#08A34E,2,0.101839022964
-'Suriname',en,Suriname,#2D30BE,#2D30BE,2,0.101736138238
+'Cabo Verde',en,Cabo Verde,#08A34E,#08A34E,2,0.101839022964
 'Paramaribo',en,Suriname,#2D30BE,#2D30BE,2,0.101736138238
+'Suriname',en,Suriname,#2D30BE,#2D30BE,2,0.101736138238
 'Luxembourg',en,Luxembourg,#B649A2,#B649A2,2,0.101645472975
 'Podgorica',en,Montenegro,#88024A,#88024A,2,0.101606825796
 'Montenegro',en,Montenegro,#88024A,#88024A,2,0.101606825796
@@ -187,8 +187,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bamako',en,Mali,#2228DF,#2228DF,2,0.101294080535
 'Saint-Denis',en,Reunion,#A32A49,#A32A49,2,0.101287087424
 'Reunion',en,Reunion,#A32A49,#A32A49,2,0.101287087424
-'Georgetown',en,Guyana,#A6EFAE,#A6EFAE,2,0.101283690456
 'Guyana',en,Guyana,#A6EFAE,#A6EFAE,2,0.101283690456
+'Georgetown',en,Guyana,#A6EFAE,#A6EFAE,2,0.101283690456
 'Venezuela',en,Venezuela,#F37B24,#F37B24,2,0.101276312141
 'Peru',en,Peru,#EECCE3,#EECCE3,2,0.101272936938
 'London',en,United Kingdom,#B78CE7,#B78CE7,2,0.101256726610
@@ -199,11 +199,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Comoros',en,Comoros,#B064BA,#B064BA,2,0.101201458090
 'Suva',en,Fiji,#F18634,#F18634,2,0.101131883692
 'Djibouti',en,Djibouti,#586224,#586224,2,0.101042839862
-'Eswatini',en,Eswatini,#D60322,#D60322,2,0.100880133710
 'Mbabane',en,Eswatini,#D60322,#D60322,2,0.100880133710
+'Eswatini',en,Eswatini,#D60322,#D60322,2,0.100880133710
 'Nicosia',en,Cyprus,#02174B,#02174B,2,0.100840855486
-'Mauritius',en,Mauritius,#AAB6BF,#AAB6BF,2,0.100790324531
 'Port Louis',en,Mauritius,#AAB6BF,#AAB6BF,2,0.100790324531
+'Mauritius',en,Mauritius,#AAB6BF,#AAB6BF,2,0.100790324531
 'Timor Leste',en,Timor Leste,#EDBABF,#EDBABF,2,0.100788660948
 'Dili',en,Timor Leste,#EDBABF,#EDBABF,2,0.100788660948
 'Malabo',en,Equatorial Guinea,#ADA532,#ADA532,2,0.100763957115
