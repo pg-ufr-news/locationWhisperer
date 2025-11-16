@@ -54,7 +54,7 @@ def getAge(dateString):
         timeDate = timeDate.days 
     return timeDate
 
-keywordsFields = ["keyword","language","topic","topicColor","keywordColor","limitPages","ratioNew"
+keywordsFields = ["keyword","language","topic","topicColor","keywordColor","limitPages","ratioNew",
                   "continent","geonames","latitude","longitude","geotype","country","ipcc"]
 
 keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')  #,index_col='keyword'
