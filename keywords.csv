@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.9,,-1,,,,,
 'West Island',en,Cocos Islands,#8616cc,#8616cc,3,0.822150712454,INDIAN,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,3,0.821255170955,SOUTHERN,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'Cocos Islands',en,Cocos Islands,#8616cc,#8616cc,1,0.799637638750,INDIAN,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Pitcairn',en,Pitcairn,#b29713,#b29713,2,0.798400179250,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'Antarctica',en,Antarctica,#073546,#073546,3,0.795161441618,POLAR,6255152,-78.158560000000,16.406260000000,L,,EAN
 'Tokelau',en,Tokelau,#d23017,#d23017,2,0.782128240109,PACIFIC,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
-'Flying Fish Cove',en,Christmas Island,#a417d0,#a417d0,2,0.766666666667,INDIAN,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
 'Christmas Island',en,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
+'Flying Fish Cove',en,Christmas Island,#a417d0,#a417d0,2,0.766666666667,INDIAN,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
+'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.765750075000,,-1,,,,,
 'Vatican',en,Vatican,#6ed4ee,#6ed4ee,3,0.754022352831,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatican City,MED
 'Adamstown',en,Pitcairn,#b29713,#b29713,1,0.744978765679,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairn Islands,SPO
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.742450222000,PACIFIC,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
