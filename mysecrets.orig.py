@@ -9,3 +9,10 @@ if(not os.getenv('NEWSAPI_KEY')):
     os.environ['NEWSAPI_KEY'] = '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'
 else:
     print("NEWSAPI_KEY already set.")
+
+## Get API key: 
+if(not os.getenv('GEONAMES_KEY')):
+    print("GEONAMES_KEY not yet set.")
+    os.environ['GEONAMES_KEY'] = 'demo_demo_123'
+else:
+    print("GEONAMES_KEY already set.")
