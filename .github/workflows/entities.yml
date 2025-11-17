@@ -33,6 +33,8 @@ jobs:
         run: (pip3 install spacy==2.2.4 textblob==0.18.0 nltk==3.8)
       - name: Install download en_core_web_md
         run: (python3 -m spacy download en_core_web_md)
+      - name: Install geocoder
+        run: (pip3 install geocoder)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run entities
