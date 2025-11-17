@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.765750075000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Vatican',en,Vatican,#6ed4ee,#6ed4ee,3,0.754022352831,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican City,MED
 'Adamstown',en,Pitcairn,#b29713,#b29713,1,0.744978765679,PACIFIC,,4030723,-25.065970000000,-130.101470000000,P,Pitcairn Islands,SPO
 'West Island',en,Cocos Islands,#8616cc,#8616cc,3,0.744707791495,INDIAN,4843305-6,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Christmas Island',en,Christmas Island,#a317d0,#a317d0,2,0.693124121307,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Pitcairn',en,Pitcairn,#b29713,#b29713,2,0.679540242362,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'Tokelau',en,Tokelau,#d23017,#d23017,1,0.664809034093,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
+'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.651637638750,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Niue',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Alofi',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
