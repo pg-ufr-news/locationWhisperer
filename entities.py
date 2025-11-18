@@ -182,7 +182,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude):
                    if('preferredName' in member):
                      #print(member['preferredName']) 
                      result['preferredName'] = member['preferredName']
-          print result
+          print(result)
           return result
         return None                   
 
