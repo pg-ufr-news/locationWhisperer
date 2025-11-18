@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.742450222000,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Antarctica',en,Antarctica,#073546,#073546,3,0.735495901289,POLAR,4002208-0,6255152,-78.158560000000,16.406260000000,L,Antarctica,EAN
 'Heard Island',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,3,0.732486686000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Vatican',en,Vatican,#6ed4ee,#6ed4ee,3,0.728040580596,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican City,MED
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.651637638750,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'West Island',en,Cocos Islands,#8616cc,#8616cc,3,0.647062931862,INDIAN,4843305-6,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
+'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.632282808700,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Alofi',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Niue',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Svalbard and Jan Mayen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492808515522,ARCTIC,,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
