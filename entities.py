@@ -96,6 +96,7 @@ def searchGeonamesByNameAndLanguage(locationName, lang):
          if(gnd and 'gndId' in gnd):
            result['gnd'] = gnd['gndId']
            found = True
+    print(result)
     return result
 
 def searchGndByGeonamesId(geonamesId):
@@ -143,7 +144,7 @@ def searchGndByGeonamesId(geonamesId):
                      return result
     return None
 
-def searchGndByNameAndGeo(locationName, latitude, longitude):
+def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
     gndUrl = 'https://explore.gnd.network/search?term='+locationName+'&f.satzart=Geografikum&rows=1'
     gndurl = 'https://lobid.org/gnd/search?q='+locationName+'&filter=type%3APlaceOrGeographicName&format=json'   #hasGeometry
     page = requests.get(gndurl, timeout=60)
@@ -183,7 +184,8 @@ def searchGndByNameAndGeo(locationName, latitude, longitude):
                      #print(member['preferredName']) 
                      result['preferredName'] = member['preferredName']
           print(result)
-          return result
+          if(distance2<maxDistance**2):
+            return result
         return None                   
 
 def searchGndByName(locationName):
@@ -459,6 +461,7 @@ for location in indexNewLocations:
       lang = indexNewLocations[location]['language']
       moreData = searchGeonamesByNameAndLanguage(location, lang)  
       if(moreData):
+         print(moreData)
          indexNewLocations[location]['topicColor'] = moreData['topicColor'] 
          indexNewLocations[location]['keywordColor'] = moreData['keywordColor']
          indexNewLocations[location]['continent'] = moreData['continent']  
