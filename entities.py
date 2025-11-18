@@ -68,14 +68,14 @@ def searchGeonamesByNameAndLanguage(locationName, lang):
          'name': [locationName]
         }, crs={'init': 'epsg:4326', 'no_defs': True})
        whichIpcc = geopandas.sjoin(ipccRegions, Coords, how='inner', op='intersects')
-       print(whichIpcc)
+       #print(whichIpcc)
        result['ipcc'] = None
        result['continent'] = None
        if(not whichIpcc.empty):
            result['ipcc'] = list(whichIpcc['Acronym'])[0]
            result['continent'] = list(whichIpcc['Continent'])[0]
        whichCountry = geopandas.sjoin(countriesDf, Coords, how='inner', op='intersects')
-       print(whichCountry)
+       #print(whichCountry)
        result['country'] = None
        if(not whichCountry.empty):
           result['country'] = list(whichCountry['Country'])[0]
@@ -96,7 +96,7 @@ def searchGeonamesByNameAndLanguage(locationName, lang):
          if(gnd and 'gndId' in gnd):
            result['gnd'] = gnd['gndId']
            found = True
-    print(result)
+    #print(result)
     return result
 
 def searchGndByGeonamesId(geonamesId):
@@ -108,13 +108,13 @@ def searchGndByGeonamesId(geonamesId):
       if(content):
         #print(content)
         jsonData = json.loads(content)
-        print(jsonData)      #'variantName' !
+        #print(jsonData)      #'variantName' !
         if('member' in jsonData):
           for member in jsonData['member']:
            if('sameAs' in member):
              for same in member['sameAs']:
-               print(25*"##")
-               print(same)
+               #print(25*"##")
+               #print(same)
                if('id' in same):
                  if(same['id']=="https://sws.geonames.org/"+str(geonamesId)):
                    if('gndIdentifier' in member):
@@ -130,9 +130,9 @@ def searchGndByGeonamesId(geonamesId):
                          if('asWKT' in geo and 'type' in geo and geo['type']=='Point'):
                             point = geo['asWKT'][0]
                             point = point.replace('Point ','').strip().strip('()').strip()
-                            print(point)
+                            #print(point)
                             coords = point.split(" ")
-                            print(coords)
+                            #print(coords)
                             result['longitude'] = float(coords[0])
                             result['latitude'] = float(coords[1])
                      if('variantName' in member):
@@ -154,7 +154,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
       if(content):
         #print(content)
         jsonData = json.loads(content)
-        print(jsonData)      #'variantName' !
+        #print(jsonData)      #'variantName' !
         if('member' in jsonData):
           minDistance2 = 10E9
           result = None
@@ -169,11 +169,11 @@ def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
                point = point.replace('Point ','').strip().strip('()').strip()
                #print(point)
                coords = point.split(" ")
-               print(coords)
+               #print(coords)
                currLongitude = float(coords[0])
                currLatitude = float(coords[1])
                distance2 = (currLongitude-longitude)**2+(currLatitude-latitude)**2
-               print(distance2)
+               #print(distance2)
                if(distance2<minDistance2):
                  minDistance = distance2 
                  if('gndIdentifier' in member):
@@ -183,7 +183,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
                    if('preferredName' in member):
                      #print(member['preferredName']) 
                      result['preferredName'] = member['preferredName']
-          print(result)
+          #print(result)
           if(distance2<maxDistance**2):
             return result
         return None                   
@@ -198,13 +198,13 @@ def searchGndByName(locationName):
       if(content):
         #print(content)
         jsonData = json.loads(content)
-        print(jsonData)      #'variantName' !
+        #print(jsonData)      #'variantName' !
         if('member' in jsonData):
           for member in jsonData['member']:
-           print(25*"=*")
+           #print(25*"=*")
            #print(member)  
            if('gndIdentifier' in member):
-             print(member['gndIdentifier']) 
+             #print(member['gndIdentifier']) 
              result = {'gndId':member['gndIdentifier']} 
              if('hasGeometry' in member):
                #print(member['hasGeometry']) 
@@ -214,9 +214,9 @@ def searchGndByName(locationName):
                  if('asWKT' in geo and 'type' in geo and geo['type']=='Point'):
                     point = geo['asWKT'][0]
                     point = point.replace('Point ','').strip().strip('()').strip()
-                    print(point)
+                    #print(point)
                     coords = point.split(" ")
-                    print(coords)
+                    #print(coords)
                     result['longitude'] = float(coords[0])
                     result['latitude'] = float(coords[1])
              found = False
