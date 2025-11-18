@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'US',en,United States,#16c71d,#16c71d,2,0.710162384245,,,,-14.604850000000,-57.656250000000,L,United States,SAM
+'US',en,United States,#16c71d,#16c71d,2,0.710162384245,,,0,-14.604850000000,-57.656250000000,L,United States,SAM
 'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,2,0.698067255312,SOUTHERN,4480857-4,1546748.000000000000,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.693850904407,SOUTHERN,4451482-7,1547314.000000000000,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Christmas Island',en,Christmas Island,#a317d0,#a317d0,2,0.693124121307,INDIAN,4219436-2,2078138.000000000000,-10.500000000000,105.666670000000,A,Christmas Island,SIO
@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Tokelau',en,Tokelau,#d23017,#d23017,1,0.664809034093,PACIFIC,4236941-1,4031074.000000000000,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Vatican',en,Vatican,#6ed4ee,#6ed4ee,3,0.663056694416,EUROPE-AFRICA,4062404-3,3164670.000000000000,41.902250000000,12.453300000000,A,Vatican City,MED
 'Adamstown',en,Pitcairn,#b29713,#b29713,1,0.655710627256,PACIFIC,,4030723.000000000000,-25.065970000000,-130.101470000000,P,Pitcairn Islands,SPO
-'United States',en,United States,#16c71d,#16c71d,3,0.653277831455,,,,-14.604850000000,-57.656250000000,L,United States,SAM
+'United States',en,United States,#16c71d,#16c71d,3,0.653277831455,,,0,-14.604850000000,-57.656250000000,L,United States,SAM
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.651637638750,SOUTHERN,4451482-7,1547314.000000000000,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'West Island',en,Cocos Islands,#8616cc,#8616cc,3,0.647062931862,INDIAN,4843305-6,7304591.000000000000,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,4294928-2,2155115.000000000000,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
