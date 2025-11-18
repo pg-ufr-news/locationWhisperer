@@ -458,8 +458,6 @@ indexLocationsDF = indexLocationsDF.sort_values(by=['count'], ascending=False)
 indexLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True)   
  
 colNewLocations =  ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count', 'topicColor', 'keywordColor', 'continent', 'gnd', 'geonames', 'latitude', 'longitude', 'geotype', 'country', 'ipcc']
-
-
 for location in indexNewLocations:
    if( indexNewLocations[location]['count'] > 9): 
       lang = indexNewLocations[location]['language']
@@ -476,8 +474,6 @@ for location in indexNewLocations:
          indexNewLocations[location]['geotype'] = moreData['geotype']
          indexNewLocations[location]['country'] = moreData['country']
          indexNewLocations[location]['ipcc'] = moreData['ipcc']
-
-
 indexNewLocationsDF = pd.DataFrame.from_dict(indexNewLocations, orient='index', columns=colNewLocations)
 indexNewLocationsDF['sentiment'] = indexNewLocationsDF['sentiment']/indexNewLocationsDF['count']
 indexNewLocationsDF['subjectivity'] = indexNewLocationsDF['subjectivity']/indexNewLocationsDF['count']
