@@ -76,7 +76,7 @@ def addNewLocations(urlNames, keyDF, newRatio=0.5,language='en', limitCount=9):
       for index, column in newDF.iterrows():
         newPhrase = "'" + column['phrase'] + "'" 
         if(not newPhrase in keyDF['keyword'].unique()):
-          newData = {'keyword':newPhrase, 'language':column['language'], 'topic':'unknown', 'topicColor':'#111111', 'keywordColor':'#111111', 'limitPages':2, 'ratioNew':(newRatio+random.random()/10000+column['count']/1000), 'continent':column['continent'], 'gnd':column['gnd'], 'geonames':column['geonames'], 'latitude':column['latitude'], 'longitude':column['longitude'], 'geotype':column['geotype'], 'country':column['country'], 'ipcc':column['ipcc']}
+          newData = {'keyword':newPhrase, 'language':column['language'], 'topic':column['country'], 'topicColor':column['topicColor'], 'keywordColor':column['keywordColor'], 'limitPages':2, 'ratioNew':(newRatio+random.random()/10000+column['count']/1000), 'continent':column['continent'], 'gnd':column['gnd'], 'geonames':column['geonames'], 'latitude':column['latitude'], 'longitude':column['longitude'], 'geotype':column['geotype'], 'country':column['country'], 'ipcc':column['ipcc']}
           ##print(newData)  
           keyDF = pd.concat([keyDF, pd.DataFrame([newData])], ignore_index=True)
     return keyDF
