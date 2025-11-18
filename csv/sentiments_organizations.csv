@@ -1,104 +1,104 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Vatican,Vatican,ORG,0.09809941520467838,0.24269005847953215,en,19
-the Catholic Church,the Catholic Church,ORG,0.06159992784992785,0.19192640692640692,en,11
+Vatican,Vatican,ORG,0.09319444444444445,0.23055555555555554,en,20
+the Catholic Church,the Catholic Church,ORG,0.059307509620009614,0.2135272366522367,en,12
 Google,Google,ORG,-0.05119047619047619,0.1142857142857143,en,8
 Reuters,Reuters,ORG,0.19319727891156463,0.30850340136054427,en,7
 ACI Prensa Staff,ACI Prensa Staff,ORG,0.06994949494949494,0.20492424242424243,en,6
-First Nations,First Nations,ORG,0.10884920634920636,0.2726851851851852,en,5
+Doc Stories,Doc Stories,ORG,0.29999999999999993,0.24,en,5
 AP,AP,ORG,0.02933333333333334,0.2833333333333333,en,5
 Trump,Trump,ORG,0.1,0.3,en,5
-Doc Stories,Doc Stories,ORG,0.29999999999999993,0.24,en,5
-Inuvialuit,Inuvialuit,ORG,0.06909722222222223,0.26533564814814814,en,4
+First Nations,First Nations,ORG,0.10884920634920636,0.2726851851851852,en,5
 UN,UN,ORG,0.006279761904761913,0.3358333333333334,en,4
 NewJeans,NewJeans,ORG,0.07500000000000001,0.08750000000000001,en,4
 Swiss Guard,Swiss Guard,ORG,-0.04166666666666667,0.20833333333333334,en,4
+Inuvialuit,Inuvialuit,ORG,0.06909722222222223,0.26533564814814814,en,4
 Vatican Museums,Vatican Museums,ORG,0.058159722222222224,0.26533564814814814,en,4
-Landmark Paris Agreement,Landmark Paris Agreement,ORG,-0.30000000000000004,0.26666666666666666,en,3
-al-Qaeda,al-Qaeda,ORG,0.06666666666666667,0.06666666666666667,en,3
-Green Army,Green Army,ORG,0.06666666666666667,0.3055555555555556,en,3
-Alief,Alief,ORG,0.06419753086419754,0.1777777777777778,en,3
-the Catholic Church's,the Catholic Church's,ORG,0.0,0.03333333333333333,en,3
 Evara,Evara,ORG,0.16414141414141414,0.4343434343434343,en,3
-United Nations,United Nations,ORG,-0.047222222222222214,0.20833333333333334,en,3
-Cubs,Cubs,ORG,0.037037037037037035,0.06666666666666667,en,3
-RNZAF,RNZAF,ORG,0.01969696969696969,0.3156565656565657,en,3
+al-Qaeda,al-Qaeda,ORG,0.06666666666666667,0.06666666666666667,en,3
 Amazon,Amazon,ORG,0.059444444444444446,0.0,en,3
-Co Antrim,Co Antrim,ORG,0.25,0.16666666666666666,en,2
-Airbus,Airbus,ORG,-0.002272727272727277,0.025,en,2
-White House,White House,ORG,0.0,0.0,en,2
-their State Visit to the Holy See,their State Visit to the Holy See,ORG,0.0,0.0,en,2
+Landmark Paris Agreement,Landmark Paris Agreement,ORG,-0.30000000000000004,0.26666666666666666,en,3
+RNZAF,RNZAF,ORG,0.01969696969696969,0.3156565656565657,en,3
+Green Army,Green Army,ORG,0.06666666666666667,0.3055555555555556,en,3
+the Catholic Church's,the Catholic Church's,ORG,0.0,0.03333333333333333,en,3
+Cubs,Cubs,ORG,0.037037037037037035,0.06666666666666667,en,3
+United Nations,United Nations,ORG,-0.047222222222222214,0.20833333333333334,en,3
+Alief,Alief,ORG,0.06419753086419754,0.1777777777777778,en,3
+Spotify,Spotify,ORG,0.4,0.48333333333333334,en,2
 Radio-Canada,Radio-Canada,ORG,0.0,0.0,en,2
-Tomdispatch.com,Tomdispatch.com,ORG,-0.06681818181818183,0.25045454545454543,en,2
-TSLA,TSLA,ORG,-0.1,0.05,en,2
-H5N1,H5N1,ORG,-0.011666666666666669,0.14875,en,2
+White House,White House,ORG,0.0,0.0,en,2
+Co Antrim,Co Antrim,ORG,0.25,0.16666666666666666,en,2
+their State Visit to the Holy See,their State Visit to the Holy See,ORG,0.0,0.0,en,2
 Allied,Allied,ORG,0.17833333333333334,0.215,en,2
+H5N1,H5N1,ORG,-0.011666666666666669,0.14875,en,2
 Tesla Inc,Tesla Inc,ORG,-0.1,0.05,en,2
-K King Air,K King Air,ORG,0.07954545454545453,0.23484848484848486,en,2
+TSLA,TSLA,ORG,-0.1,0.05,en,2
+USCCB,USCCB,ORG,0.04545454545454545,0.14242424242424243,en,2
+Tomdispatch.com,Tomdispatch.com,ORG,-0.06681818181818183,0.25045454545454543,en,2
 the Swiss Guard,the Swiss Guard,ORG,-0.05,0.025,en,2
-AccuWeather,AccuWeather,ORG,-0.18285714285714286,0.2714285714285714,en,2
 Academy Award,Academy Award,ORG,0.3615384615384616,0.2548076923076923,en,2
 Netflix,Netflix,ORG,0.3615384615384616,0.2548076923076923,en,2
-Commerce,Commerce,ORG,0.32222222222222224,0.25972222222222224,en,2
-Spotify,Spotify,ORG,0.4,0.48333333333333334,en,2
-Melissa,Melissa,ORG,0.03125,0.25,en,2
+AccuWeather,AccuWeather,ORG,-0.18285714285714286,0.2714285714285714,en,2
+Airbus,Airbus,ORG,-0.002272727272727277,0.025,en,2
 Costco,Costco,ORG,0.3,0.0,en,2
-the Royal New Zealand Air Force's,the Royal New Zealand Air Force's,ORG,0.07954545454545453,0.23484848484848486,en,2
 Vocus,Vocus,ORG,-0.1,0.09999999999999999,en,2
-Vatican Apostolic Library,Vatican Apostolic Library,ORG,0.0,0.0,en,2
-20th Century Studios,20th Century Studios,ORG,0.20833333333333331,0.20833333333333334,en,2
+Weekly Coffee News,Weekly Coffee News,ORG,0.625,0.45,en,2
+the Royal New Zealand Air Force's,the Royal New Zealand Air Force's,ORG,0.07954545454545453,0.23484848484848486,en,2
+Commerce,Commerce,ORG,0.32222222222222224,0.25972222222222224,en,2
+Magnetotelluric,Magnetotelluric,ORG,0.10714285714285714,0.21428571428571427,en,2
+Melissa,Melissa,ORG,0.03125,0.25,en,2
+K King Air,K King Air,ORG,0.07954545454545453,0.23484848484848486,en,2
+EarlyHealth Group,EarlyHealth Group,ORG,0.125,0.475,en,2
 SFFILM,SFFILM,ORG,0.3333333333333333,0.19999999999999998,en,2
 The Chicago White Sox,The Chicago White Sox,ORG,0.05555555555555555,0.09999999999999999,en,2
 NEIVANMADE,NEIVANMADE,ORG,-0.21875,0.19375,en,2
-Magnetotelluric,Magnetotelluric,ORG,0.10714285714285714,0.21428571428571427,en,2
-the Canadian Museum of Nature,the Canadian Museum of Nature,ORG,-0.06045454545454546,0.24931818181818183,en,2
 UNSW,UNSW,ORG,0.14602272727272728,0.2833333333333333,en,2
 Whitecap Dakota First Nation,Whitecap Dakota First Nation,ORG,0.12,0.14333333333333334,en,2
 Paramount,Paramount,ORG,0.06818181818181818,0.30113636363636365,en,2
 Catholic Churchs,Catholic Churchs,ORG,0.0,0.05,en,2
-Aedes,Aedes,ORG,-0.03333333333333333,0.04416666666666667,en,2
-Lufthansa,Lufthansa,ORG,0.38541666666666663,0.2,en,2
 RCMP,RCMP,ORG,-0.04017857142857143,0.0625,en,2
-Vatican Media,Vatican Media,ORG,0.0,0.0,en,2
-EarlyHealth Group,EarlyHealth Group,ORG,0.125,0.475,en,2
-USCCB,USCCB,ORG,0.04545454545454545,0.14242424242424243,en,2
-the Canadian Conference of Catholic Bishops,the Canadian Conference of Catholic Bishops,ORG,0.09999999999999999,0.05,en,2
-the Canadian Catholic Church,the Canadian Catholic Church,ORG,0.09499999999999999,0.14333333333333334,en,2
-Weekly Coffee News,Weekly Coffee News,ORG,0.625,0.45,en,2
-EarlyHealth City to Anchor,EarlyHealth City to Anchor,ORG,0.125,0.475,en,2
-BIDC,BIDC,ORG,0.125,0.475,en,2
-EHG,EHG,ORG,0.125,0.475,en,2
+Lufthansa,Lufthansa,ORG,0.38541666666666663,0.2,en,2
+20th Century Studios,20th Century Studios,ORG,0.20833333333333331,0.20833333333333334,en,2
 JNIM,JNIM,ORG,0.0,0.0,en,2
-The Catholic University of America,The Catholic University of America,ORG,0.0,0.0,en,1
-oppure scegliere,oppure scegliere,ORG,0.0,0.0,en,1
-Catholic Univeristy of America,Catholic Univeristy of America,ORG,0.0,0.0,en,1
-un,un,ORG,0.0,0.0,en,1
-ANSA/FABIO FRUSTACI,ANSA/FABIO FRUSTACI,ORG,0.0,0.0,en,1
-ANSA,ANSA,ORG,0.0,0.0,en,1
-General Audience,General Audience,ORG,0.02500000000000001,0.0,en,1
-Vatican Grants Muslim Plea for,Vatican Grants Muslim Plea for,ORG,0.0,0.0,en,1
-Century of Humiliation,Century of Humiliation,ORG,0.0,0.0,en,1
-Data Centres and Imminent Militarisation,Data Centres and Imminent Militarisation,ORG,0.0,0.0,en,1
-Artisan Gateway,Artisan Gateway,ORG,0.0,0.0,en,1
-eravia New York Times,eravia New York Times,ORG,0.17651515151515149,0.0,en,1
-Scarborough Shoalvia,Scarborough Shoalvia,ORG,0.17651515151515149,0.0,en,1
-Super Typhoon,Super Typhoon,ORG,0.21666666666666667,0.0,en,1
-Nature Geoscience,Nature Geoscience,ORG,0.3164772727272727,0.0,en,1
-the East Antarctic Ice Sheet,the East Antarctic Ice Sheet,ORG,0.3164772727272727,0.0,en,1
-EAIS,EAIS,ORG,0.3164772727272727,0.0,en,1
-MBC,MBC,ORG,0.19015151515151515,0.0,en,1
-The Taiping Rebellion,The Taiping Rebellion,ORG,0.0,0.0,en,1
-CNBC,CNBC,ORG,0.32222222222222224,0.0,en,1
-Podcast Transcript,Podcast Transcript,ORG,0.9,0.0,en,1
-Weekly Edit,Weekly Edit,ORG,0.5,0.0,en,1
-MMA,MMA,ORG,0.0,0.0,en,1
-ID’d,ID’d,ORG,0.0,0.0,en,1
-CBC,CBC,ORG,0.2,0.0,en,1
-Amazons,Amazons,ORG,0.17833333333333334,0.0,en,1
+Vatican Media,Vatican Media,ORG,0.0,0.0,en,2
+EHG,EHG,ORG,0.125,0.475,en,2
+the Canadian Museum of Nature,the Canadian Museum of Nature,ORG,-0.06045454545454546,0.24931818181818183,en,2
+BIDC,BIDC,ORG,0.125,0.475,en,2
+EarlyHealth City to Anchor,EarlyHealth City to Anchor,ORG,0.125,0.475,en,2
+the Canadian Catholic Church,the Canadian Catholic Church,ORG,0.09499999999999999,0.14333333333333334,en,2
+Vatican Apostolic Library,Vatican Apostolic Library,ORG,0.0,0.0,en,2
+Aedes,Aedes,ORG,-0.03333333333333333,0.04416666666666667,en,2
+the Canadian Conference of Catholic Bishops,the Canadian Conference of Catholic Bishops,ORG,0.09999999999999999,0.05,en,2
 Antarctica Glacier Lost,Antarctica Glacier Lost,ORG,-0.16666666666666666,0.0,en,1
+eravia New York Times,eravia New York Times,ORG,0.17651515151515149,0.0,en,1
+Nature Geoscience,Nature Geoscience,ORG,0.3164772727272727,0.0,en,1
+Super Typhoon,Super Typhoon,ORG,0.21666666666666667,0.0,en,1
+Scarborough Shoalvia,Scarborough Shoalvia,ORG,0.17651515151515149,0.0,en,1
+Catholic Univeristy of America,Catholic Univeristy of America,ORG,0.0,0.0,en,1
+The Catholic University of America,The Catholic University of America,ORG,0.0,0.0,en,1
+ID’d,ID’d,ORG,0.0,0.0,en,1
+MMA,MMA,ORG,0.0,0.0,en,1
+un,un,ORG,0.0,0.0,en,1
 Church,Church,ORG,0.0,0.0,en,1
-"Pitchfork, Adoran","Pitchfork, Adoran",ORG,0.0,0.0,en,1
+Weekly Edit,Weekly Edit,ORG,0.5,0.0,en,1
+oppure scegliere,oppure scegliere,ORG,0.0,0.0,en,1
+the East Antarctic Ice Sheet,the East Antarctic Ice Sheet,ORG,0.3164772727272727,0.0,en,1
+ANSA,ANSA,ORG,0.0,0.0,en,1
+Artisan Gateway,Artisan Gateway,ORG,0.0,0.0,en,1
+ANSA/FABIO FRUSTACI,ANSA/FABIO FRUSTACI,ORG,0.0,0.0,en,1
+General Audience,General Audience,ORG,0.02500000000000001,0.0,en,1
+Podcast Transcript,Podcast Transcript,ORG,0.9,0.0,en,1
+The Taiping Rebellion,The Taiping Rebellion,ORG,0.0,0.0,en,1
+EAIS,EAIS,ORG,0.3164772727272727,0.0,en,1
+Data Centres and Imminent Militarisation,Data Centres and Imminent Militarisation,ORG,0.0,0.0,en,1
+CBC,CBC,ORG,0.2,0.0,en,1
+Century of Humiliation,Century of Humiliation,ORG,0.0,0.0,en,1
+MBC,MBC,ORG,0.19015151515151515,0.0,en,1
+the World of Cinema,the World of Cinema,ORG,0.08333333333333333,0.0,en,1
+Amazons,Amazons,ORG,0.17833333333333334,0.0,en,1
+CNBC,CNBC,ORG,0.32222222222222224,0.0,en,1
+Vatican Grants Muslim Plea for,Vatican Grants Muslim Plea for,ORG,0.0,0.0,en,1
 Instagram,Instagram,ORG,0.5,0.0,en,1
-Catholic American,Catholic American,ORG,0.05,0.0,en,1
+Bloomberg,Bloomberg,ORG,0.0,0.0,en,1
 Na,Na,ORG,0.08750000000000001,0.0,en,1
 New Zealand Defence Force,New Zealand Defence Force,ORG,0.0909090909090909,0.0,en,1
 GM,GM,ORG,0.0,0.0,en,1
@@ -109,13 +109,14 @@ Lefebvre,Lefebvre,ORG,0.1,0.0,en,1
 Catholic Traditionalism,Catholic Traditionalism,ORG,0.0,0.0,en,1
 CNA,CNA,ORG,0.0,0.0,en,1
 Axelle/Bauer-Griffin/Getty,Axelle/Bauer-Griffin/Getty,ORG,0.0,0.0,en,1
-Bloomberg,Bloomberg,ORG,0.0,0.0,en,1
 Worl,Worl,ORG,0.13636363636363635,0.0,en,1
+Catholic American,Catholic American,ORG,0.05,0.0,en,1
 The Irish Independent’s View,The Irish Independent’s View,ORG,-0.06666666666666667,0.0,en,1
 the Catholic Church’s,the Catholic Church’s,ORG,0.0,0.0,en,1
 CNA Staff,CNA Staff,ORG,0.0,0.0,en,1
 Apple,Apple,ORG,-0.20000000000000004,0.0,en,1
 Walmarts CE,Walmarts CE,ORG,-0.20000000000000004,0.0,en,1
+CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1
 S.S. Rajamouli's,S.S. Rajamouli's,ORG,0.1,0.0,en,1
 Indiana Jones,Indiana Jones,ORG,0.0,0.0,en,1
 RRR,RRR,ORG,0.0,0.0,en,1
@@ -123,7 +124,7 @@ Cita,Cita,ORG,-0.16666666666666666,0.0,en,1
 Swansea University,Swansea University,ORG,0.08750000000000001,0.0,en,1
 irongolem /,irongolem /,ORG,0.25,0.0,en,1
 fea,fea,ORG,0.0,0.0,en,1
-Ador,Ador,ORG,0.1,0.0,en,1
+Fellini,Fellini,ORG,0.0,0.0,en,1
 null / Credit,null / Credit,ORG,0.0,0.0,en,1
 joshimerbin/Shutterstock,joshimerbin/Shutterstock,ORG,0.0,0.0,en,1
 The United States Conference of Catholic Bishops,The United States Conference of Catholic Bishops,ORG,0.04545454545454545,0.0,en,1
@@ -133,8 +134,9 @@ First American,First American,ORG,0.3375,0.0,,1
 Hanni,Hanni,ORG,0.0,0.0,en,1
 announceme,announceme,ORG,0.0,0.0,en,1
 Hybe,Hybe,ORG,0.1,0.0,en,1
+Ador,Ador,ORG,0.1,0.0,en,1
 "Chinese Buoys, Military","Chinese Buoys, Military",ORG,-0.05,0.0,en,1
-Fellini,Fellini,ORG,0.0,0.0,en,1
+"Pitchfork, Adoran","Pitchfork, Adoran",ORG,0.0,0.0,en,1
 Hybesaid,Hybesaid,ORG,0.0,0.0,en,1
 Pen,Pen,ORG,0.0,0.0,en,1
 The Pen & the Spade - The Poems,The Pen & the Spade - The Poems,ORG,0.0,0.0,en,1
@@ -147,18 +149,21 @@ The Pontifical Lateran University,The Pontifical Lateran University,ORG,0.0,0.0,
 the Chinese Communist Party,the Chinese Communist Party,ORG,-0.075,0.0,en,1
 Ae,Ae,ORG,0.0,0.0,en,1
 Chinas Militia,Chinas Militia,ORG,-0.05,0.0,en,1
-explorer Roald Amundsen,explorer Roald Amundsen,ORG,0.0625,0.0,en,1
-AFC Champions League Elite,AFC Champions League Elite,ORG,0.0,0.0,en,1
+CBC News,CBC News,ORG,0.19999999999999998,0.0,en,1
 Milinković-Savić,Milinković-Savić,ORG,0.0,0.0,en,1
 Al-Hilal,Al-Hilal,ORG,0.0,0.0,en,1
 Royal Australian Air Force,Royal Australian Air Force,ORG,0.075,0.0,en,1
 Defence Media21,Defence Media21,ORG,0.075,0.0,en,1
+"Rome
+","Rome
+",ORG,0.0,0.0,en,1
 Culiseta,Culiseta,ORG,0.16666666666666666,0.0,en,1
 the Icelandic Institute of Natural History,the Icelandic Institute of Natural History,ORG,0.16666666666666666,0.0,en,1
 Icelanders,Icelanders,ORG,0.0,0.0,en,1
 N,N,ORG,0.25,0.0,en,1
 the Church of England,the Church of England,ORG,0.08333333333333333,0.0,en,1
 the Sistine Chapel,the Sistine Chapel,ORG,0.0,0.0,en,1
+Camilla,Camilla,ORG,0.0,0.0,en,1
 Rutgers University,Rutgers University,ORG,0.14583333333333331,0.0,en,1
 Popular Science,Popular Science,ORG,0.425,0.0,en,1
 Tesla Operates,Tesla Operates,ORG,0.0,0.0,en,1
@@ -170,11 +175,10 @@ Crains Detroit Business,Crains Detroit Business,ORG,0.3333333333333333,0.0,en,1
 Diplomat,Diplomat,ORG,0.0,0.0,en,1
 Labor,Labor,ORG,0.0,0.0,en,1
 Gilbert,Gilbert,ORG,0.0,0.0,en,1
-Podcast Transcript Located,Podcast Transcript Located,ORG,0.0,0.0,en,1
-CBC News,CBC News,ORG,0.19999999999999998,0.0,en,1
+AFC Champions League Elite,AFC Champions League Elite,ORG,0.0,0.0,en,1
 Puerto Rico Wine &amp,Puerto Rico Wine &amp,ORG,0.6,0.0,en,1
+explorer Roald Amundsen,explorer Roald Amundsen,ORG,0.0625,0.0,en,1
 The Caribbean Food Festivals Elevating,The Caribbean Food Festivals Elevating,ORG,0.0,0.0,en,1
-Squires,Squires,ORG,0.0,0.0,en,1
 National Academy of Sciences,National Academy of Sciences,ORG,0.1388888888888889,0.0,en,1
 Ukraines,Ukraines,ORG,0.1388888888888889,0.0,en,1
 Ukraines Na,Ukraines Na,ORG,0.25,0.0,en,1
@@ -185,8 +189,8 @@ Primate,Primate,ORG,0.0,0.0,en,1
 Avatar: Fire & Ash,Avatar: Fire & Ash,ORG,0.06818181818181818,0.0,en,1
 Avatar: Fire &amp,Avatar: Fire &amp,ORG,0.06818181818181818,0.0,en,1
 Final Fantasy Tactics',Final Fantasy Tactics',ORG,0.5,0.0,en,1
+Squires,Squires,ORG,0.0,0.0,en,1
 RPG,RPG,ORG,0.7,0.0,en,1
-IGZ,IGZ,ORG,0.28750000000000003,0.0,en,1
 Water Brothers & Wildlands League,Water Brothers & Wildlands League,ORG,0.0,0.0,en,1
 the UN Fourth Committee,the UN Fourth Committee,ORG,0.125,0.0,en,1
 the General Assembly,the General Assembly,ORG,0.10178571428571428,0.0,en,1
@@ -197,10 +201,12 @@ Trackhouse Racing,Trackhouse Racing,ORG,0.25,0.0,en,1
 First Wap,First Wap,ORG,0.25,0.0,en,1
 First Wap’s,First Wap’s,ORG,-0.29000000000000004,0.0,en,1
 Mother Jones,Mother Jones,ORG,-0.29000000000000004,0.0,en,1
+IGZ,IGZ,ORG,0.28750000000000003,0.0,en,1
+Podcast Transcript Located,Podcast Transcript Located,ORG,0.0,0.0,en,1
 KINGSTON,KINGSTON,ORG,0.0,0.0,en,1
 foreca,foreca,ORG,0.0,0.0,en,1
 Sam's Club Recalled for Life-Threatening Contaminant,Sam's Club Recalled for Life-Threatening Contaminant,ORG,0.6,0.0,en,1
-AFC Champions League Elite - Vissel Kobe,AFC Champions League Elite - Vissel Kobe,ORG,0.0,0.0,en,1
+The Great Gatsby,The Great Gatsby,ORG,0.3615384615384616,0.0,en,1
 Explorers,Explorers,ORG,0.0,0.0,en,1
 Facebook,Facebook,ORG,0.0,0.0,en,1
 Gyeongju,Gyeongju,ORG,0.0,0.0,en,1
@@ -211,8 +217,8 @@ lough,lough,ORG,0.34375,0.0,en,1
 the NSF Center for Oldest Ice Exploration,the NSF Center for Oldest Ice Exploration,ORG,-0.1,0.0,en,1
 COLDEX,COLDEX,ORG,-0.1,0.0,en,1
 AFC Champions League,AFC Champions League,ORG,0.0,0.0,en,1
+AFC Champions League Elite - Vissel Kobe,AFC Champions League Elite - Vissel Kobe,ORG,0.0,0.0,en,1
 Gowdy J,Gowdy J,ORG,0.0,0.0,en,1
-The Solidarity of the Hopeful,The Solidarity of the Hopeful,ORG,0.0,0.0,en,1
 Ecosystem Serv,Ecosystem Serv,ORG,0.0,0.0,en,1
 AFC Champions League Two - Macarthur FC,AFC Champions League Two - Macarthur FC,ORG,0.0,0.0,en,1
 WildArts,WildArts,ORG,-0.4,0.0,en,1
@@ -223,10 +229,11 @@ University of New South Wales,University of New South Wales,ORG,0.06704545454545
 APEC,APEC,ORG,0.13636363636363635,0.0,en,1
 Foreign Policys Latin America Brief,Foreign Policys Latin America Brief,ORG,0.16875,0.0,en,1
 regionaldiplomacy,regionaldiplomacy,ORG,0.0,0.0,en,1
-The Great Gatsby,The Great Gatsby,ORG,0.3615384615384616,0.0,en,1
+The Solidarity of the Hopeful,The Solidarity of the Hopeful,ORG,0.0,0.0,en,1
 Bost,Bost,ORG,0.0,0.0,en,1
+Daily Coffee News,Daily Coffee News,ORG,0.4,0.0,en,1
+Recruit Maduro's,Recruit Maduro's,ORG,0.0,0.0,en,1
 The U.S. Department of Agricultures Food Safety and Inspection Service,The U.S. Department of Agricultures Food Safety and Inspection Service,ORG,0.0,0.0,en,1
-Nicolás,Nicolás,ORG,0.0,0.0,en,1
 FSIS,FSIS,ORG,0.0,0.0,en,1
 Sams Club,Sams Club,ORG,0.0,0.0,en,1
 conta,conta,ORG,0.0,0.0,en,1
@@ -236,9 +243,9 @@ the House of Representatives,the House of Representatives,ORG,-0.092727272727272
 Paris Masters TV,Paris Masters TV,ORG,0.2,0.0,en,1
 TLA Releasing for,TLA Releasing for,ORG,0.0,0.0,en,1
 the Baltics Ahead of Tallinn,the Baltics Ahead of Tallinn,ORG,0.0,0.0,en,1
-Recruit Maduro's,Recruit Maduro's,ORG,0.0,0.0,en,1
+Nicolás,Nicolás,ORG,0.0,0.0,en,1
+Roast Magazine’s,Roast Magazine’s,ORG,0.4,0.0,en,1
 &amp,&amp,ORG,0.0,0.0,en,1
-Daily Coffee News,Daily Coffee News,ORG,0.4,0.0,en,1
 Blundy,Blundy,ORG,0.0,0.0,en,1
 BBC,BBC,ORG,0.5,0.0,en,1
 the North Atlantic Land Bridge,the North Atlantic Land Bridge,ORG,0.5681818181818181,0.0,en,1
@@ -248,5 +255,4 @@ Avenue des Champs-Élysées,Avenue des Champs-Élysées,ORG,0.25,0.0,en,1
 BBC Verify USA Correspondent,BBC Verify USA Correspondent,ORG,-0.15555555555555559,0.0,en,1
 Seychelles,Seychelles,ORG,0.0,0.0,en,1
 National Geographic Traveller,National Geographic Traveller,ORG,0.0,0.0,en,1
-Roast Magazine’s,Roast Magazine’s,ORG,0.4,0.0,en,1
 FAI,FAI,ORG,0.5,0.0,en,1

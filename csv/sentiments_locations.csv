@@ -2,243 +2,243 @@
 Antarctica,Antarctica,LOC,0.017812763047138056,0.3376704545454545,en,48
 Canada,Canada,GPE,0.15525604686318975,0.297329617031998,en,42
 Jamaica,Jamaica,GPE,0.04666152263374486,0.3237551440329218,en,36
-France,France,GPE,0.2584750566893424,0.3691156462585034,en,21
-US,US,GPE,0.23392857142857149,0.3172619047619048,en,21
 Iceland,Iceland,GPE,0.24900793650793657,0.407936507936508,en,21
+US,US,GPE,0.23392857142857149,0.3172619047619048,en,21
+France,France,GPE,0.2584750566893424,0.3691156462585034,en,21
+Hollywood,Hollywood,GPE,0.23189123376623377,0.2799350649350649,en,20
 Cuba,Cuba,GPE,0.2807142857142858,0.3455952380952382,en,20
-Hollywood,Hollywood,GPE,0.24409603554340398,0.2946684894053315,en,19
 Australia,Australia,GPE,-0.038920153920153924,0.37266474266474264,en,15
 Earth,Earth,LOC,0.06330687830687831,0.26103174603174606,en,15
 Ireland,Ireland,GPE,0.2604023569023569,0.4464814814814816,en,15
-Caribbean,Caribbean,LOC,-0.0190854119425548,0.26381330309901735,en,14
 China,China,GPE,0.15014880952380952,0.35803571428571423,en,14
+Caribbean,Caribbean,LOC,-0.0190854119425548,0.26381330309901735,en,14
 Italy,Italy,GPE,0.2516025641025641,0.2891025641025641,en,13
-Cyprus,Cyprus,GPE,0.39999999999999997,0.39999999999999997,en,12
-Virgin Island,Virgin Island,GPE,0.39999999999999997,0.39999999999999997,en,12
-United States of America,United States of America,GPE,0.39999999999999997,0.39999999999999997,en,12
 Puerto Rico,Puerto Rico,GPE,0.39999999999999997,0.39999999999999997,en,12
+United States of America,United States of America,GPE,0.39999999999999997,0.39999999999999997,en,12
+Virgin Island,Virgin Island,GPE,0.39999999999999997,0.39999999999999997,en,12
+Andorra,Andorra,GPE,0.39999999999999997,0.39999999999999997,en,12
+Belgium,Belgium,GPE,0.39999999999999997,0.39999999999999997,en,12
+Cyprus,Cyprus,GPE,0.39999999999999997,0.39999999999999997,en,12
 Czech Republic,Czech Republic,GPE,0.39999999999999997,0.39999999999999997,en,12
 Denmark,Denmark,GPE,0.39999999999999997,0.39999999999999997,en,12
 Faroe Islands,Faroe Islands,GPE,0.39999999999999997,0.39999999999999997,en,12
 Finland,Finland,GPE,0.39999999999999997,0.39999999999999997,en,12
-Belgium,Belgium,GPE,0.39999999999999997,0.39999999999999997,en,12
-Andorra,Andorra,GPE,0.39999999999999997,0.39999999999999997,en,12
 VATICAN CITY,VATICAN CITY,GPE,0.17766627312081856,0.28706218024399843,en,11
 Paris,Paris,GPE,0.10309228650137739,0.44098484848484854,en,11
+Rome,Rome,GPE,-0.038636363636363635,0.09393939393939395,en,11
 Christmas Island,Christmas Island,GPE,0.004682539682539681,0.2171428571428572,en,9
-Japan,Japan,GPE,0.10177398989898989,0.3332165404040404,en,8
-Heard Island,Heard Island,LOC,-0.027916666666666666,0.2638541666666666,en,8
-Rome,Rome,GPE,-0.053125,0.12916666666666668,en,8
-Vatican,Vatican,GPE,0.015990259740259735,0.2637175324675325,en,8
 Vatican City,Vatican City,GPE,0.013541666666666667,0.06979166666666667,en,8
+Vatican,Vatican,GPE,0.015990259740259735,0.2637175324675325,en,8
+Heard Island,Heard Island,LOC,-0.027916666666666666,0.2638541666666666,en,8
+Japan,Japan,GPE,0.10177398989898989,0.3332165404040404,en,8
 UK,UK,GPE,0.09936224489795918,0.2489795918367347,en,7
 Gibraltar,Gibraltar,GPE,0.39999999999999997,0.39999999999999997,en,6
-Philippines,Philippines,GPE,-0.005092592592592593,0.43703703703703706,en,6
-Ukraine,Ukraine,GPE,0.03356481481481482,0.20254629629629628,en,6
 Greece,Greece,GPE,0.39999999999999997,0.39999999999999997,en,6
-Antarctic,Antarctic,LOC,0.017866161616161617,0.30833333333333335,en,6
-Gaza,Gaza,GPE,0.041666666666666664,0.06597222222222222,en,6
 Greenland,Greenland,GPE,0.39999999999999997,0.39999999999999997,en,6
 Hungary,Hungary,GPE,0.39999999999999997,0.39999999999999997,en,6
+Philippines,Philippines,GPE,-0.005092592592592593,0.43703703703703706,en,6
+Antarctic,Antarctic,LOC,0.017866161616161617,0.30833333333333335,en,6
+Gaza,Gaza,GPE,0.041666666666666664,0.06597222222222222,en,6
+Ukraine,Ukraine,GPE,0.03356481481481482,0.20254629629629628,en,6
 Florida,Florida,GPE,0.28750000000000003,0.3083333333333333,en,6
-the Indian Ocean,the Indian Ocean,LOC,0.05009523809523808,0.3041904761904761,en,5
+Chicago,Chicago,GPE,0.025,0.12333333333333334,en,5
 Chile,Chile,GPE,0.0035690235690235632,0.18016835016835014,en,5
 Arctic,Arctic,LOC,0.28545454545454546,0.7065151515151515,en,5
-Germany,Germany,GPE,0.25483333333333336,0.35266666666666663,en,5
 Barbados,Barbados,LOC,0.05,0.19,en,5
-Dozulé,Dozulé,GPE,0.07276785714285713,0.31101190476190477,en,4
+Germany,Germany,GPE,0.25483333333333336,0.35266666666666663,en,5
+the Indian Ocean,the Indian Ocean,LOC,0.05009523809523808,0.3041904761904761,en,5
+Washington,Washington,GPE,0.02,0.06749999999999999,en,4
 Spain,Spain,GPE,0.0,0.008333333333333333,en,4
 San Francisco,San Francisco,GPE,0.3474358974358974,0.45480769230769225,en,4
+Dozulé,Dozulé,GPE,0.07276785714285713,0.31101190476190477,en,4
 Russia,Russia,GPE,-0.10416666666666667,0.23854166666666668,en,4
-Washington,Washington,GPE,0.02,0.06749999999999999,en,4
+U.S.,U.S.,GPE,0.0125,0.21875,en,4
+Atlantic,Atlantic,LOC,-0.02083333333333333,0.5791666666666666,en,4
 South Georgia,South Georgia,GPE,0.10416666666666667,0.20833333333333331,en,4
 India,India,GPE,0.1203125,0.22291666666666665,en,4
-Israel,Israel,GPE,0.025,0.1744047619047619,en,4
-U.S.,U.S.,GPE,0.0125,0.21875,en,4
-Chicago,Chicago,GPE,0.03125,0.15416666666666667,en,4
-Atlantic,Atlantic,LOC,-0.02083333333333333,0.5791666666666666,en,4
-the United States,the United States,GPE,0.12041666666666667,0.3025,en,4
 the James Bay,the James Bay,LOC,0.0,0.0,en,4
+the United States,the United States,GPE,0.12041666666666667,0.3025,en,4
+Israel,Israel,GPE,0.025,0.1744047619047619,en,4
 Pacific,Pacific,LOC,-0.03333333333333333,0.16666666666666666,en,3
-Sweden,Sweden,GPE,0.19444444444444442,0.3680555555555555,en,3
 Haiti,Haiti,GPE,-0.06095238095238095,0.18095238095238095,en,3
-Fiji,Fiji,GPE,0.01969696969696969,0.34898989898989896,en,3
-Auckland,Auckland,GPE,0.3348484848484848,0.3606060606060606,en,3
-Indonesia,Indonesia,GPE,0.10666666666666667,0.35999999999999993,en,3
-south Dublin,south Dublin,GPE,0.16414141414141414,0.6767676767676768,en,3
+Sweden,Sweden,GPE,0.19444444444444442,0.3680555555555555,en,3
+Patagonia,Patagonia,GPE,-0.031944444444444435,0.25925925925925924,en,3
+London,London,GPE,0.020833333333333332,0.17499999999999996,en,3
 Vancouver,Vancouver,GPE,0.28611111111111115,0.425,en,3
-Venezuela,Venezuela,GPE,0.19999999999999998,0.3,en,3
+Malaysia,Malaysia,GPE,-0.15555555555555556,0.38888888888888884,en,3
+Indonesia,Indonesia,GPE,0.10666666666666667,0.35999999999999993,en,3
+Auckland,Auckland,GPE,0.3348484848484848,0.3606060606060606,en,3
+Jakarta,Jakarta,GPE,-0.14,0.5977777777777779,en,3
+Varanasi,Varanasi,GPE,0.08541666666666665,0.2222222222222222,en,3
+Fiji,Fiji,GPE,0.01969696969696969,0.34898989898989896,en,3
 Portugal,Portugal,GPE,0.006481481481481467,0.2601851851851852,en,3
+Venezuela,Venezuela,GPE,0.19999999999999998,0.3,en,3
+south Dublin,south Dublin,GPE,0.16414141414141414,0.6767676767676768,en,3
 St. Peter’s,St. Peter’s,GPE,0.0909090909090909,0.30303030303030304,en,3
 Argentina,Argentina,GPE,0.125,0.25,en,3
-Varanasi,Varanasi,GPE,0.08541666666666665,0.2222222222222222,en,3
-Malaysia,Malaysia,GPE,-0.15555555555555556,0.38888888888888884,en,3
-Patagonia,Patagonia,GPE,-0.031944444444444435,0.25925925925925924,en,3
-Jakarta,Jakarta,GPE,-0.14,0.5977777777777779,en,3
-America,America,GPE,-0.06681818181818183,0.5135227272727272,en,2
-New York City,New York City,GPE,-0.06681818181818183,0.5135227272727272,en,2
-London,London,GPE,0.0,0.0125,en,2
-U.K.,U.K.,GPE,0.0962962962962963,0.2666666666666667,en,2
-Romas,Romas,GPE,0.0962962962962963,0.2666666666666667,en,2
-Bamako,Bamako,GPE,0.1,0.1,en,2
-Zika,Zika,GPE,-0.03333333333333333,0.11777777777777779,en,2
-Allan Hills,Allan Hills,GPE,0.175,0.225,en,2
-High Arctic,High Arctic,LOC,0.019999999999999997,0.5549999999999999,en,2
-Mayotte,Mayotte,LOC,0.10714285714285714,0.21428571428571427,en,2
-Peru,Peru,GPE,0.06818181818181818,0.22727272727272727,en,2
-Fernandina Beach,Fernandina Beach,GPE,0.43125,0.46249999999999997,en,2
-Canberra,Canberra,GPE,-0.1,0.2,en,2
-Chivirico,Chivirico,GPE,0.1,0.35,en,2
-CUBA,CUBA,GPE,0.15714285714285714,0.38928571428571423,en,2
-Maryland,Maryland,GPE,0.022727272727272724,0.14242424242424243,en,2
-Baltimore,Baltimore,GPE,0.022727272727272724,0.14242424242424243,en,2
-Black River,Black River,LOC,0.020000000000000007,0.41,en,2
-D.C.,D.C.,GPE,0.0,0.0,en,2
-The Hektoria Glacier,The Hektoria Glacier,LOC,-0.13333333333333333,0.2833333333333333,en,2
+Dubai,Dubai,GPE,0.125,0.475,en,2
+Kabul,Kabul,GPE,0.06666666666666667,0.15833333333333333,en,2
+Valley of Ashes,Valley of Ashes,GPE,0.3615384615384616,0.5096153846153846,en,2
+United Arab Emirates,United Arab Emirates,GPE,0.125,0.475,en,2
 Mallorca,Mallorca,GPE,0.0,0.016666666666666666,en,2
 Penang,Penang,GPE,0.03162878787878787,0.5172348484848486,en,2
-Valley of Ashes,Valley of Ashes,GPE,0.3615384615384616,0.5096153846153846,en,2
-Kabul,Kabul,GPE,0.06666666666666667,0.15833333333333333,en,2
+Black River,Black River,LOC,0.020000000000000007,0.41,en,2
+CUBA,CUBA,GPE,0.15714285714285714,0.38928571428571423,en,2
 Kolkata,Kolkata,GPE,0.06666666666666667,0.15833333333333333,en,2
+Mayotte,Mayotte,LOC,0.10714285714285714,0.21428571428571427,en,2
+Budapest,Budapest,GPE,-0.11111111111111113,0.2152777777777778,en,2
+Romas,Romas,GPE,0.0962962962962963,0.2666666666666667,en,2
+U.K.,U.K.,GPE,0.0962962962962963,0.2666666666666667,en,2
+Brazil,Brazil,GPE,0.0375,0.3125,en,2
+Chivirico,Chivirico,GPE,0.1,0.35,en,2
+Europe,Europe,LOC,0.1625,0.2375,en,2
+The Hektoria Glacier,The Hektoria Glacier,LOC,-0.13333333333333333,0.2833333333333333,en,2
+the Allan Hills,the Allan Hills,LOC,0.01785714285714286,0.15357142857142855,en,2
+America,America,GPE,-0.06681818181818183,0.5135227272727272,en,2
 Thailand,Thailand,GPE,-0.18333333333333335,0.33333333333333337,en,2
 Myanmar,Myanmar,GPE,-0.15,0.2,en,2
+Canberra,Canberra,GPE,-0.1,0.2,en,2
+D.C.,D.C.,GPE,0.0,0.0,en,2
+Peru,Peru,GPE,0.06818181818181818,0.22727272727272727,en,2
+Mexico,Mexico,GPE,0.06818181818181818,0.22727272727272727,en,2
+Asia,Asia,LOC,0.0,0.0,en,2
+Baltimore,Baltimore,GPE,0.022727272727272724,0.14242424242424243,en,2
+Maryland,Maryland,GPE,0.022727272727272724,0.14242424242424243,en,2
+Bamako,Bamako,GPE,0.1,0.1,en,2
 Basilica,Basilica,LOC,0.0,0.0,en,2
-Detroit,Detroit,GPE,0.18333333333333335,0.35000000000000003,en,2
+Zika,Zika,GPE,-0.03333333333333333,0.11777777777777779,en,2
+Allan Hills,Allan Hills,GPE,0.175,0.225,en,2
 Maldives,Maldives,GPE,0.03,0.44499999999999995,en,2
-Budapest,Budapest,GPE,-0.11111111111111113,0.2152777777777778,en,2
+New York City,New York City,GPE,-0.06681818181818183,0.5135227272727272,en,2
+High Arctic,High Arctic,LOC,0.019999999999999997,0.5549999999999999,en,2
+the Southern Indian Ocean,the Southern Indian Ocean,LOC,0.0,0.3333333333333333,en,2
+Overseas Territories,Overseas Territories,LOC,0.18392857142857144,0.2714285714285714,en,2
+Detroit,Detroit,GPE,0.18333333333333335,0.35000000000000003,en,2
 the South Pole,the South Pole,LOC,0.20625,0.39479166666666665,en,2
 South Korea's,South Korea's,GPE,0.05833333333333333,0.375,en,2
-Dubai,Dubai,GPE,0.125,0.475,en,2
-United Arab Emirates,United Arab Emirates,GPE,0.125,0.475,en,2
-West Antarctica,West Antarctica,LOC,-0.21666666666666665,0.3,en,2
 Berry Glacier,Berry Glacier,GPE,-0.21666666666666665,0.3,en,2
+West Antarctica,West Antarctica,LOC,-0.21666666666666665,0.3,en,2
 Madagascar,Madagascar,GPE,0.09242424242424241,0.3053030303030303,en,2
-North America,North America,LOC,-0.05,0.05,en,2
-Brazil,Brazil,GPE,0.0375,0.3125,en,2
-Overseas Territories,Overseas Territories,LOC,0.18392857142857144,0.2714285714285714,en,2
-Deception Island,Deception Island,GPE,-0.15555555555555559,0.2888888888888889,en,2
-Fumarole Bay,Fumarole Bay,LOC,-0.15555555555555559,0.2888888888888889,en,2
-Plymouth,Plymouth,GPE,0.5,0.5,en,2
-the North Siders,the North Siders,LOC,0.1388888888888889,0.25,en,2
-South Africa,South Africa,GPE,-0.1,0.1,en,2
-Asia,Asia,LOC,0.0,0.0,en,2
-Europe,Europe,LOC,0.1625,0.2375,en,2
-the Allan Hills,the Allan Hills,LOC,0.01785714285714286,0.15357142857142855,en,2
-the Southern Indian Ocean,the Southern Indian Ocean,LOC,0.0,0.3333333333333333,en,2
-McDonald Islands,McDonald Islands,GPE,-0.2,0.45,en,2
 Solomon Islands,Solomon Islands,GPE,0.0,0.3,en,2
+McDonald Islands,McDonald Islands,GPE,-0.2,0.45,en,2
+North America,North America,LOC,-0.05,0.05,en,2
 the Kerguelen Plateau,the Kerguelen Plateau,LOC,0.0,0.3333333333333333,en,2
 McDonald Island,McDonald Island,LOC,0.2,0.35,en,2
 the Mariana Trench,the Mariana Trench,LOC,0.0,0.2,en,2
-Mexico,Mexico,GPE,0.06818181818181818,0.22727272727272727,en,2
-Guam,Guam,GPE,0.1,0.15,en,2
+South Africa,South Africa,GPE,-0.1,0.1,en,2
 the Marina Islands,the Marina Islands,LOC,0.1,0.15,en,2
-Vietnam,Vietnam,GPE,-0.05,0.05,en,1
-Marina,Marina,LOC,0.0,0.0,en,1
-turkey,turkey,GPE,0.0,0.25,en,1
-Kerala,Kerala,GPE,0.0,0.0,en,1
-Americas,Americas,LOC,0.0,0.1,en,1
-Eastern Europe,Eastern Europe,LOC,0.0,0.0,en,1
-Kochi,Kochi,GPE,0.0,0.0,en,1
-Pakistan,Pakistan,GPE,-0.05,0.05,en,1
-JAKARTA,JAKARTA,GPE,0.16,0.5399999999999999,en,1
-Suho,Suho,GPE,0.13636363636363635,0.45454545454545453,en,1
-East Antarctica,East Antarctica,LOC,-0.4333333333333333,0.6,en,1
-B.C,B.C,GPE,0.0,0.0,en,1
-BELEM,BELEM,GPE,0.0375,0.3125,en,1
-Chinas,Chinas,GPE,0.17651515151515149,0.4106060606060606,en,1
-North,North,LOC,0.0,0.0,en,1
-Vallarpadam,Vallarpadam,GPE,0.0,0.0,en,1
-DC,DC,GPE,0.0,0.0,en,1
-Latin America,Latin America,LOC,0.0,0.5,en,1
-Ulster Wildlife,Ulster Wildlife,LOC,-0.21875,0.5,en,1
-Churchs,Churchs,GPE,0.0,0.0,en,1
-North Korea,North Korea,GPE,0.0,0.0,en,1
-Northern Ireland,Northern Ireland,GPE,-0.21875,0.5,en,1
-the Eastern Antarctic Peninsula,the Eastern Antarctic Peninsula,LOC,0.08750000000000001,0.26666666666666666,en,1
-the South West Pacific region,the South West Pacific region,LOC,0.06818181818181818,0.4772727272727273,en,1
-the High Seas,the High Seas,LOC,0.08,0.26999999999999996,en,1
-Latin America's,Latin America's,LOC,0.0,0.5,en,1
-New Zealand,New Zealand,GPE,0.06818181818181818,0.22727272727272727,en,1
-The United States,The United States,GPE,0.04545454545454545,0.28484848484848485,en,1
-New Zealandfrom,New Zealandfrom,GPE,0.13636363636363635,0.45454545454545453,en,1
-Minji,Minji,GPE,0.0,0.0,en,1
-Piazza San Pietro,Piazza San Pietro,GPE,0.0,0.0,en,1
-Turkey,Turkey,GPE,0.325,0.475,en,1
-British Columbia,British Columbia,GPE,0.325,0.475,en,1
-BRIDGETOWN,BRIDGETOWN,GPE,0.0,0.0,en,1
-Dozule,Dozule,GPE,0.4,0.5,en,1
-ROME,ROME,GPE,-0.03333333333333333,0.3666666666666667,en,1
-St. Peter's,St. Peter's,GPE,0.02500000000000001,0.25,en,1
-eaag3055,eaag3055,GPE,0.0,0.0,en,1
-Latin America’s,Latin America’s,LOC,0.0,0.0,en,1
-Tiverton,Tiverton,GPE,0.0,0.0,en,1
-Indon,Indon,LOC,0.1,0.4,en,1
-Antarctic Heard Island,Antarctic Heard Island,LOC,-0.2,0.4,en,1
-Jeju Island,Jeju Island,LOC,0.11666666666666665,0.75,en,1
-Bangkok United's,Bangkok United's,GPE,0.0,0.0,en,1
-Zivkovic,Zivkovic,GPE,0.0,0.0,en,1
-Rhode Island's,Rhode Island's,GPE,0.0,0.0,en,1
-Rhode Island,Rhode Island,GPE,0.0,0.0,en,1
-Alaska,Alaska,GPE,0.0,0.0,en,1
-Island Archipelago,Island Archipelago,LOC,0.0,0.0,en,1
-the Southern Ocean,the Southern Ocean,LOC,-0.010000000000000002,0.2975,en,1
-Dublin,Dublin,GPE,0.17393939393939395,0.5866666666666667,en,1
-the Dominican Republic,the Dominican Republic,GPE,-0.18285714285714286,0.5428571428571428,en,1
-the Western Atlantic,the Western Atlantic,LOC,-0.18285714285714286,0.5428571428571428,en,1
-Solomon Islands',Solomon Islands',GPE,0.0,0.3,en,1
-a Royal Australian A,a Royal Australian A,LOC,0.075,0.40833333333333327,en,1
-Mount Redoubt,Mount Redoubt,GPE,0.0,0.0,en,1
-Alys Beach,Alys Beach,GPE,0.375,0.35,en,1
-Mackinac Island,Mackinac Island,GPE,0.5,1.0,en,1
-Hudson Bay,Hudson Bay,LOC,0.39999999999999997,0.9666666666666667,en,1
-Earths,Earths,GPE,0.15,0.6,en,1
-the United Kingdom,the United Kingdom,GPE,0.24285714285714285,0.4178571428571428,en,1
-Greenbrier,Greenbrier,GPE,0.27777777777777773,0.5555555555555555,en,1
-West Virginia,West Virginia,GPE,0.27777777777777773,0.5555555555555555,en,1
-Mackinac Island’s,Mackinac Island’s,GPE,0.27777777777777773,0.5555555555555555,en,1
-Indian Ocean,Indian Ocean,LOC,0.09166666666666667,0.5666666666666667,en,1
+the North Siders,the North Siders,LOC,0.1388888888888889,0.25,en,2
+Fernandina Beach,Fernandina Beach,GPE,0.43125,0.46249999999999997,en,2
+Guam,Guam,GPE,0.1,0.15,en,2
+Deception Island,Deception Island,GPE,-0.15555555555555559,0.2888888888888889,en,2
+Fumarole Bay,Fumarole Bay,LOC,-0.15555555555555559,0.2888888888888889,en,2
+England,England,GPE,0.14375,0.7,en,2
+Plymouth,Plymouth,GPE,0.5,0.5,en,2
 the Paris of South America,the Paris of South America,GPE,0.375,0.75,en,1
-Phillip Island,Phillip Island,LOC,0.0,0.6,en,1
+Kerala,Kerala,GPE,0.0,0.0,en,1
+Kochi,Kochi,GPE,0.0,0.0,en,1
+Minji,Minji,GPE,0.0,0.0,en,1
+ROME,ROME,GPE,-0.03333333333333333,0.3666666666666667,en,1
 Luzon,Luzon,LOC,-0.12222222222222222,0.38055555555555554,en,1
 Europ,Europ,LOC,-0.29000000000000004,0.6266666666666667,en,1
+Phillip Island,Phillip Island,LOC,0.0,0.6,en,1
+Vallarpadam,Vallarpadam,GPE,0.0,0.0,en,1
 the United States of,the United States of,GPE,0.0,0.0,en,1
+Indon,Indon,LOC,0.1,0.4,en,1
+The United States,The United States,GPE,0.04545454545454545,0.28484848484848485,en,1
+Churchs,Churchs,GPE,0.0,0.0,en,1
 Latin America Encuentra,Latin America Encuentra,LOC,0.0,0.0,en,1
 Buenos Aires,Buenos Aires,GPE,0.375,0.75,en,1
-Mount Dora,Mount Dora,GPE,0.375,0.35,en,1
-Kyoto,Kyoto,GPE,0.0,0.0,en,1
-Tajikistan,Tajikistan,GPE,0.33,0.52,en,1
-Scotland,Scotland,GPE,0.0,0.375,en,1
-Nigeria,Nigeria,GPE,0.13636363636363635,0.45454545454545453,en,1
+a Royal Australian A,a Royal Australian A,LOC,0.075,0.40833333333333327,en,1
+Alaska,Alaska,GPE,0.0,0.0,en,1
+Mount Redoubt,Mount Redoubt,GPE,0.0,0.0,en,1
+St. Peter's,St. Peter's,GPE,0.02500000000000001,0.25,en,1
+Piazza San Pietro,Piazza San Pietro,GPE,0.0,0.0,en,1
+Negril,Negril,GPE,0.0,0.0,en,1
+the Eastern Antarctic Peninsula,the Eastern Antarctic Peninsula,LOC,0.08750000000000001,0.26666666666666666,en,1
+Indian Ocean,Indian Ocean,LOC,0.09166666666666667,0.5666666666666667,en,1
+New Zealandfrom,New Zealandfrom,GPE,0.13636363636363635,0.45454545454545453,en,1
+BELEM,BELEM,GPE,0.0375,0.3125,en,1
+Marina,Marina,LOC,0.0,0.0,en,1
+Eastern Europe,Eastern Europe,LOC,0.0,0.0,en,1
+Americas,Americas,LOC,0.0,0.1,en,1
+Hudson Bay,Hudson Bay,LOC,0.39999999999999997,0.9666666666666667,en,1
+DC,DC,GPE,0.0,0.0,en,1
+Earths,Earths,GPE,0.15,0.6,en,1
+the United Kingdom,the United Kingdom,GPE,0.24285714285714285,0.4178571428571428,en,1
+BRIDGETOWN,BRIDGETOWN,GPE,0.0,0.0,en,1
+British Columbia,British Columbia,GPE,0.325,0.475,en,1
+Turkey,Turkey,GPE,0.325,0.475,en,1
+New Zealand,New Zealand,GPE,0.06818181818181818,0.22727272727272727,en,1
+Dozule,Dozule,GPE,0.4,0.5,en,1
+Greenbrier,Greenbrier,GPE,0.27777777777777773,0.5555555555555555,en,1
+Latin America,Latin America,LOC,0.0,0.5,en,1
+Latin America's,Latin America's,LOC,0.0,0.5,en,1
+the High Seas,the High Seas,LOC,0.08,0.26999999999999996,en,1
+the South West Pacific region,the South West Pacific region,LOC,0.06818181818181818,0.4772727272727273,en,1
+West Virginia,West Virginia,GPE,0.27777777777777773,0.5555555555555555,en,1
+Northern Ireland,Northern Ireland,GPE,-0.21875,0.5,en,1
+Ulster Wildlife,Ulster Wildlife,LOC,-0.21875,0.5,en,1
+Mackinac Island’s,Mackinac Island’s,GPE,0.27777777777777773,0.5555555555555555,en,1
+North Korea,North Korea,GPE,0.0,0.0,en,1
+Mackinac Island,Mackinac Island,GPE,0.5,1.0,en,1
+Antarctic Heard Island,Antarctic Heard Island,LOC,-0.2,0.4,en,1
+Chinas,Chinas,GPE,0.17651515151515149,0.4106060606060606,en,1
+B.C,B.C,GPE,0.0,0.0,en,1
+Jamaicas,Jamaicas,GPE,0.020000000000000007,0.41,en,1
 Fallujah,Fallujah,GPE,0.0,0.0,en,1
+the Dominican Republic,the Dominican Republic,GPE,-0.18285714285714286,0.5428571428571428,en,1
+Nigeria,Nigeria,GPE,0.13636363636363635,0.45454545454545453,en,1
+Tokyo,Tokyo,GPE,0.0,0.06666666666666667,en,1
+Kuala Lumpur,Kuala Lumpur,GPE,0.0,0.06666666666666667,en,1
+Indo,Indo,GPE,0.0,0.06666666666666667,en,1
+Westmoreland Parish,Westmoreland Parish,GPE,-0.049999999999999996,0.08333333333333333,en,1
+Whitehouse,Whitehouse,GPE,-0.049999999999999996,0.08333333333333333,en,1
+Westmoreland,Westmoreland,GPE,-0.049999999999999996,0.08333333333333333,en,1
+Iran,Iran,GPE,0.13333333333333333,0.31666666666666665,en,1
+the Western Atlantic,the Western Atlantic,LOC,-0.18285714285714286,0.5428571428571428,en,1
+Solomon Islands',Solomon Islands',GPE,0.0,0.3,en,1
+BLACK RIVER,BLACK RIVER,LOC,0.020000000000000007,0.41,en,1
+North,North,LOC,0.0,0.0,en,1
+Seychelles,Seychelles,GPE,-0.05,0.4,en,1
+PARIS,PARIS,GPE,0.2,0.5,en,1
+the North Atlantic Land Bridge,the North Atlantic Land Bridge,LOC,0.16,0.5399999999999999,en,1
+eaag3055,eaag3055,GPE,0.0,0.0,en,1
+Mount Dora,Mount Dora,GPE,0.375,0.35,en,1
+Mount Lewotobi,Mount Lewotobi,GPE,0.16,0.5399999999999999,en,1
+the Atlantic Ocean,the Atlantic Ocean,LOC,0.4,0.75,en,1
+Alys Beach,Alys Beach,GPE,0.375,0.35,en,1
+MIAMI,MIAMI,GPE,0.0,0.0,en,1
+Kyoto,Kyoto,GPE,0.0,0.0,en,1
+Mount Fuji,Mount Fuji,LOC,0.20625,0.63125,en,1
+the Lucayan Archipelago,the Lucayan Archipelago,GPE,0.3,0.6333333333333333,en,1
 California,California,GPE,-0.2,0.4,en,1
 Irelands,Irelands,GPE,0.34375,0.7,en,1
 Cebu,Cebu,LOC,0.0,0.0,en,1
 Edinburgh,Edinburgh,GPE,-0.21666666666666667,0.3833333333333333,en,1
-Ulsan,Ulsan,GPE,0.0,0.0,en,1
-Kuala Lumpur,Kuala Lumpur,GPE,0.0,0.06666666666666667,en,1
-the Mediterranean Sea,the Mediterranean Sea,LOC,0.0,0.0,en,1
-Mali,Mali,LOC,0.0,0.0,en,1
-Palestine,Palestine,GPE,-0.5,0.5,en,1
-May.,May.,GPE,0.125,0.21666666666666667,en,1
-Tiny Island Overrun By Crabs,Tiny Island Overrun By Crabs,LOC,-0.16666666666666666,0.4333333333333333,en,1
+Jeju Island,Jeju Island,LOC,0.11666666666666665,0.75,en,1
+turkey,turkey,GPE,0.0,0.25,en,1
+Bangkok United's,Bangkok United's,GPE,0.0,0.0,en,1
+Suho,Suho,GPE,0.13636363636363635,0.45454545454545453,en,1
+East Antarctica,East Antarctica,LOC,-0.4333333333333333,0.6,en,1
+Pakistan,Pakistan,GPE,-0.05,0.05,en,1
+Vietnam,Vietnam,GPE,-0.05,0.05,en,1
+Zivkovic,Zivkovic,GPE,0.0,0.0,en,1
+JAKARTA,JAKARTA,GPE,0.16,0.5399999999999999,en,1
+Rhode Island's,Rhode Island's,GPE,0.0,0.0,en,1
+Tiverton,Tiverton,GPE,0.0,0.0,en,1
+Rhode Island,Rhode Island,GPE,0.0,0.0,en,1
+Latin America’s,Latin America’s,LOC,0.0,0.0,en,1
+Island Archipelago,Island Archipelago,LOC,0.0,0.0,en,1
+Tajikistan,Tajikistan,GPE,0.33,0.52,en,1
 the Pamir peaks,the Pamir peaks,LOC,0.33,0.52,en,1
-Tokyo,Tokyo,GPE,0.0,0.06666666666666667,en,1
-Indo,Indo,GPE,0.0,0.06666666666666667,en,1
-Mount Fuji,Mount Fuji,LOC,0.20625,0.63125,en,1
-the North Atlantic Land Bridge,the North Atlantic Land Bridge,LOC,0.16,0.5399999999999999,en,1
-the Lucayan Archipelago,the Lucayan Archipelago,GPE,0.3,0.6333333333333333,en,1
-Negril,Negril,GPE,0.0,0.0,en,1
-MIAMI,MIAMI,GPE,0.0,0.0,en,1
-the Atlantic Ocean,the Atlantic Ocean,LOC,0.4,0.75,en,1
-Mount Lewotobi,Mount Lewotobi,GPE,0.16,0.5399999999999999,en,1
-England,England,GPE,0.22499999999999998,0.9,en,1
-PARIS,PARIS,GPE,0.2,0.5,en,1
-Westmoreland Parish,Westmoreland Parish,GPE,-0.049999999999999996,0.08333333333333333,en,1
-Seychelles,Seychelles,GPE,-0.05,0.4,en,1
-BLACK RIVER,BLACK RIVER,LOC,0.020000000000000007,0.41,en,1
-Jamaicas,Jamaicas,GPE,0.020000000000000007,0.41,en,1
-Iran,Iran,GPE,0.13333333333333333,0.31666666666666665,en,1
-Westmoreland,Westmoreland,GPE,-0.049999999999999996,0.08333333333333333,en,1
-Whitehouse,Whitehouse,GPE,-0.049999999999999996,0.08333333333333333,en,1
+Tiny Island Overrun By Crabs,Tiny Island Overrun By Crabs,LOC,-0.16666666666666666,0.4333333333333333,en,1
+May.,May.,GPE,0.125,0.21666666666666667,en,1
+Palestine,Palestine,GPE,-0.5,0.5,en,1
+the Southern Ocean,the Southern Ocean,LOC,-0.010000000000000002,0.2975,en,1
+Mali,Mali,LOC,0.0,0.0,en,1
+the Mediterranean Sea,the Mediterranean Sea,LOC,0.0,0.0,en,1
+Ulsan,Ulsan,GPE,0.0,0.0,en,1
+Dublin,Dublin,GPE,0.17393939393939395,0.5866666666666667,en,1
+Scotland,Scotland,GPE,0.0,0.375,en,1
 Quantico,Quantico,GPE,-0.16666666666666666,0.16666666666666666,en,1

@@ -1,111 +1,116 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Pope Leo XIV,Pope Leo XIV,PERSON,0.1398929292929293,0.3053838383838383,en,25
-Pope Leo,Pope Leo,PERSON,0.06685213940648724,0.16547043938348285,en,23
-Leo XIV,Leo XIV,PERSON,0.14613109113109116,0.30944388944388945,en,13
+Pope Leo XIV,Pope Leo XIV,PERSON,0.12271423916585207,0.2901555881394591,en,31
+Pope Leo,Pope Leo,PERSON,0.0648373015873016,0.1588994708994709,en,25
+Leo XIV,Leo XIV,PERSON,0.1356931560502989,0.2873407544836116,en,14
 Saint Pierre et Miquelon,Saint Pierre et Miquelon,PERSON,0.39999999999999997,0.39999999999999997,en,12
-Cate Blanchett,Cate Blanchett,PERSON,0.044642857142857144,0.07142857142857142,en,8
-Spike Lee,Spike Lee,PERSON,0.05952380952380953,0.09523809523809523,en,6
-Queen Camilla,Queen Camilla,PERSON,0.20833333333333334,0.2222222222222222,en,6
+Cate Blanchett,Cate Blanchett,PERSON,0.03968253968253968,0.06349206349206349,en,9
+Queen Camilla,Queen Camilla,PERSON,0.14583333333333334,0.2037037037037037,en,9
+Spike Lee,Spike Lee,PERSON,0.05102040816326531,0.08163265306122448,en,7
 Catherine Connolly,Catherine Connolly,PERSON,0.09006565656565657,0.304,en,5
 David Attenborough,David Attenborough,PERSON,0.25,0.25,en,4
-Jessica Khine,Jessica Khine,PERSON,-0.009185606060606068,0.5086174242424243,en,4
 Judd Apatow,Judd Apatow,PERSON,0.0,0.0,en,4
-Seamus Heaney,Seamus Heaney,PERSON,0.0,0.0,en,3
+Jessica Khine,Jessica Khine,PERSON,-0.009185606060606068,0.5086174242424243,en,4
 Lough Neagh,Lough Neagh,PERSON,0.3541666666666667,0.7583333333333333,en,3
-Ken Burns,Ken Burns,PERSON,0.2722222222222222,0.5111111111111111,en,3
 Francesca Albanese,Francesca Albanese,PERSON,0.0,0.020833333333333332,en,3
 Stanislav Kutuzov,Stanislav Kutuzov,PERSON,0.1734920634920635,0.3146031746031746,en,3
+King Charles,King Charles,PERSON,-0.09999999999999999,0.19999999999999998,en,3
+Ken Burns,Ken Burns,PERSON,0.2722222222222222,0.5111111111111111,en,3
+Seamus Heaney,Seamus Heaney,PERSON,0.0,0.0,en,3
 Priyanka Chopra Jonas,Priyanka Chopra Jonas,PERSON,-0.022222222222222216,0.13888888888888887,en,3
 Viggo Mortensen,Viggo Mortensen,PERSON,0.0,0.0,en,2
-Hurricane Melissa,Hurricane Melissa,PERSON,0.0,0.0,en,2
-Rob Lantz,Rob Lantz,PERSON,-0.04017857142857143,0.23660714285714285,en,2
-Monica Bellucci,Monica Bellucci,PERSON,0.17857142857142858,0.2857142857142857,en,2
 Howard Lutnick,Howard Lutnick,PERSON,0.32222222222222224,0.5194444444444445,en,2
-Naomi Campbell,Naomi Campbell,PERSON,0.012500000000000004,0.125,en,2
-Mahmud Abbas,Mahmud Abbas,PERSON,0.25,0.3333333333333333,en,2
 Typhoon Kalmaegi,Typhoon Kalmaegi,PERSON,-0.10833333333333334,0.4375,en,2
 Mary-Lou McDonald,Mary-Lou McDonald,PERSON,0.34375,0.7,en,2
 Sinn Féin,Sinn Féin,PERSON,0.34375,0.7,en,2
+Rob Lantz,Rob Lantz,PERSON,-0.04017857142857143,0.23660714285714285,en,2
+Hurricane Melissa,Hurricane Melissa,PERSON,0.0,0.0,en,2
+Mahmud Abbas,Mahmud Abbas,PERSON,0.25,0.3333333333333333,en,2
+Naomi Campbell,Naomi Campbell,PERSON,0.012500000000000004,0.125,en,2
 Dorothy Draper,Dorothy Draper,PERSON,0.13888888888888887,0.27777777777777773,en,2
-Andrew Holness,Andrew Holness,PERSON,0.06875,0.84375,en,2
-Georges Bernanos,Georges Bernanos,PERSON,0.0,0.016666666666666666,en,2
-Raul Fernandez,Raul Fernandez,PERSON,0.25625,0.44166666666666665,en,2
 SANTIAGO DE,SANTIAGO DE,PERSON,0.15714285714285714,0.38928571428571423,en,2
-Elon Musk,Elon Musk,PERSON,-0.1,0.1,en,2
+Joseph Murolo,Joseph Murolo,PERSON,0.06948051948051948,0.21493506493506492,en,2
 Michael Jordan’s,Michael Jordan’s,PERSON,0.0,0.0,en,2
-King Charles,King Charles,PERSON,0.0,0.0,en,2
+Andrew Holness,Andrew Holness,PERSON,0.06875,0.84375,en,2
+Elon Musk,Elon Musk,PERSON,-0.1,0.1,en,2
+Bernhard Lang,Bernhard Lang,PERSON,0.0,0.2125,en,2
 John Viveiros,John Viveiros,PERSON,0.0,0.0,en,2
 Hong Suk-hui,Hong Suk-hui,PERSON,0.11666666666666665,0.75,en,2
-Bernhard Lang,Bernhard Lang,PERSON,0.0,0.2125,en,2
-Joseph Murolo,Joseph Murolo,PERSON,0.06948051948051948,0.21493506493506492,en,2
-Craig Morrison,Craig Morrison,PERSON,0.0,0.1,en,1
-Jeremy Noel-Tod,Jeremy Noel-Tod,PERSON,0.0,0.0,en,1
-James Bond,James Bond,PERSON,0.0,0.0,en,1
-Elisva Vakhai,Elisva Vakhai,PERSON,0.0,0.125,en,1
-Daniel Ib,Daniel Ib,PERSON,0.0,0.125,en,1
+Raul Fernandez,Raul Fernandez,PERSON,0.25625,0.44166666666666665,en,2
+Monica Bellucci,Monica Bellucci,PERSON,0.17857142857142858,0.2857142857142857,en,2
+Charles III,Charles III,PERSON,0.041666666666666664,0.26666666666666666,en,2
+Georges Bernanos,Georges Bernanos,PERSON,0.0,0.016666666666666666,en,2
 Mother Elisva Vakha’i,Mother Elisva Vakha’i,PERSON,0.0,0.0,en,1
+Daniel Ib,Daniel Ib,PERSON,0.0,0.125,en,1
+Elisva Vakhai,Elisva Vakhai,PERSON,0.0,0.125,en,1
+Mount Lewotobi Laki-Laki,Mount Lewotobi Laki-Laki,PERSON,0.0,0.0,en,1
 Peter Watkins,Peter Watkins,PERSON,0.0,0.0,en,1
 Kim Kardashia,Kim Kardashia,PERSON,-0.20000000000000004,0.3,en,1
 Nostra Aetate,Nostra Aetate,PERSON,0.0,0.0,en,1
+Craig Morrison,Craig Morrison,PERSON,0.0,0.1,en,1
 puoi aderire,puoi aderire,PERSON,0.0,0.0,en,1
-Khoon Maaf,Khoon Maaf,PERSON,-0.16666666666666666,0.16666666666666666,en,1
 Se hai scelto di non accettare,Se hai scelto di non accettare,PERSON,0.0,0.0,en,1
 Papa Leone,Papa Leone,PERSON,0.0,0.0,en,1
-Pope Leo XIV Talks Movies To A-List Crowd At Vatican,Pope Leo XIV Talks Movies To A-List Crowd At Vatican,PERSON,0.0,0.0,en,1
+Rosie Lavan,Rosie Lavan,PERSON,0.0,0.0,en,1
 Chris Pine,Chris Pine,PERSON,0.25,0.3333333333333333,en,1
 Gus Van Sant,Gus Van Sant,PERSON,0.0,0.0,en,1
 Wang Bing,Wang Bing,PERSON,0.0,0.0,en,1
 Marco Bellocchio,Marco Bellocchio,PERSON,0.0,0.0,en,1
-Dil Dhadakne,Dil Dhadakne,PERSON,-0.16666666666666666,0.16666666666666666,en,1
-Rosie Lavan,Rosie Lavan,PERSON,0.0,0.0,en,1
-Marina Freixa,Marina Freixa,PERSON,-0.15,0.4,en,1
-Jeff Bezoss,Jeff Bezoss,PERSON,0.0,0.0,en,1
-Monica Be,Monica Be,PERSON,0.0,0.0,en,1
-Richard Drake,Richard Drake,PERSON,0.0,0.0,en,1
+Jeremy Noel-Tod,Jeremy Noel-Tod,PERSON,0.0,0.0,en,1
+Liang Sen,Liang Sen,PERSON,0.325,0.475,en,1
+Bernard O’Donoghue,Bernard O’Donoghue,PERSON,0.0,0.0,en,1
 Jeff Bezos,Jeff Bezos,PERSON,0.5,0.5,en,1
+Dil Dhadakne,Dil Dhadakne,PERSON,-0.16666666666666666,0.16666666666666666,en,1
+Khoon Maaf,Khoon Maaf,PERSON,-0.16666666666666666,0.16666666666666666,en,1
+James Bond,James Bond,PERSON,0.0,0.0,en,1
+Marina Freixa,Marina Freixa,PERSON,-0.15,0.4,en,1
+Monica Be,Monica Be,PERSON,0.0,0.0,en,1
+Sarah RainsfordSouthern,Sarah RainsfordSouthern,PERSON,0.0,0.0,en,1
+Pope Leo XIV Talks Movies To A-List Crowd At Vatican,Pope Leo XIV Talks Movies To A-List Crowd At Vatican,PERSON,0.0,0.0,en,1
+Frank Royal,Frank Royal,PERSON,-0.009999999999999998,0.2866666666666667,en,1
+Santo Subito,Santo Subito,PERSON,0.0,0.0,en,1
+Adrian Tusar,Adrian Tusar,PERSON,0.0,0.0,en,1
+Hollywood Stars,Hollywood Stars,PERSON,0.0,0.0,en,1
+Richard Drake,Richard Drake,PERSON,0.0,0.0,en,1
+Jeff Bezoss,Jeff Bezoss,PERSON,0.0,0.0,en,1
 Raymond Burke,Raymond Burke,PERSON,0.0,0.0,en,1
+Matthew Hollis,Matthew Hollis,PERSON,0.0,0.0,en,1
 Bishop Marcel Lefebvre,Bishop Marcel Lefebvre,PERSON,0.0,0.0,en,1
 Madeleine Aumont,Madeleine Aumont,PERSON,0.0,0.1,en,1
 Jesus Christ,Jesus Christ,PERSON,0.09107142857142858,0.6107142857142858,en,1
 Joe Rogan,Joe Rogan,PERSON,0.16666666666666666,0.20833333333333334,en,1
-Hollywood Stars,Hollywood Stars,PERSON,0.0,0.0,en,1
 Harry Potter,Harry Potter,PERSON,0.325,0.475,en,1
-Adrian Tusar,Adrian Tusar,PERSON,0.0,0.0,en,1
-Liang Sen,Liang Sen,PERSON,0.325,0.475,en,1
 Wānaka Tree,Wānaka Tree,PERSON,0.0,0.0,en,1
 Hektoria Glacier,Hektoria Glacier,PERSON,0.1,0.4,en,1
 Van Gosse,Van Gosse,PERSON,0.1375,0.30833333333333335,en,1
 Yvonne Galligan,Yvonne Galligan,PERSON,0.0,0.0,en,1
 Lara Marlowe,Lara Marlowe,PERSON,0.020833333333333332,0.16666666666666666,en,1
-Sarah RainsfordSouthern,Sarah RainsfordSouthern,PERSON,0.0,0.0,en,1
+Pope Francis,Pope Francis,PERSON,0.0,0.0,en,1
 Clement XIV,Clement XIV,PERSON,0.0,0.0,en,1
 John Paul II Pontifical,John Paul II Pontifical,PERSON,0.0,0.0,en,1
-Matthew Hollis,Matthew Hollis,PERSON,0.0,0.0,en,1
-Santo Subito,Santo Subito,PERSON,0.0,0.0,en,1
-Bernard O’Donoghue,Bernard O’Donoghue,PERSON,0.0,0.0,en,1
-Frank Royal,Frank Royal,PERSON,-0.009999999999999998,0.2866666666666667,en,1
-Pope Francis,Pope Francis,PERSON,0.0,0.0,en,1
-Mount Lewotobi Laki-Laki,Mount Lewotobi Laki-Laki,PERSON,0.0,0.0,en,1
 Rohingya Muslim,Rohingya Muslim,PERSON,0.0,0.0,en,1
-Higgins Kara Owen,Higgins Kara Owen,PERSON,-0.046363636363636364,0.28181818181818186,en,1
-Fani Maoré,Fani Maoré,PERSON,0.21428571428571427,0.42857142857142855,en,1
-Keira Witcomb,Keira Witcomb,PERSON,0.0,0.0,en,1
-Nicolás Maduro’s,Nicolás Maduro’s,PERSON,0.0,0.0,en,1
-HBO Max,HBO Max,PERSON,0.0,0.0,en,1
+Caput Mortum,Caput Mortum,PERSON,-0.4,0.4,en,1
+Robert De Niros,Robert De Niros,PERSON,-0.05,0.21666666666666667,en,1
+Michael D,Michael D,PERSON,-0.046363636363636364,0.28181818181818186,en,1
 Gilbert Whiteduck,Gilbert Whiteduck,PERSON,0.25,0.55,en,1
 Mike Johnson insis,Mike Johnson insis,PERSON,-0.09272727272727274,0.5009090909090909,en,1
 Rome Burns,Rome Burns,PERSON,0.0,0.0,en,1
 Stephanie Brayford,Stephanie Brayford,PERSON,0.0,0.0,en,1
+Plunket h,Plunket h,PERSON,0.0625,0.5,en,1
+Oliver Plunket,Oliver Plunket,PERSON,0.0625,0.5,en,1
+Ollie Plunket,Ollie Plunket,PERSON,0.08790584415584417,0.40591630591630595,en,1
+Queen Camilla’s,Queen Camilla’s,PERSON,0.2833333333333334,0.65,en,1
 Sean Pavone,Sean Pavone,PERSON,0.4875,0.575,en,1
 Challenger Deep,Challenger Deep,PERSON,0.0,0.4,en,1
 Lachlan Strahan,Lachlan Strahan,PERSON,0.0,0.3,en,1
 Solomon Islands-China,Solomon Islands-China,PERSON,0.0,0.0,en,1
-Michael D,Michael D,PERSON,-0.046363636363636364,0.28181818181818186,en,1
-Robert De Niros,Robert De Niros,PERSON,-0.05,0.21666666666666667,en,1
+Higgins Kara Owen,Higgins Kara Owen,PERSON,-0.046363636363636364,0.28181818181818186,en,1
 Kara Owen,Kara Owen,PERSON,0.24545454545454548,0.4515151515151515,en,1
+Robert De Niro,Robert De Niro,PERSON,0.0,0.65,en,1
 Fine Gael,Fine Gael,PERSON,0.1388888888888889,0.625,en,1
 Jean MackenzieSeoul,Jean MackenzieSeoul,PERSON,0.11666666666666665,0.75,en,1
-Charles III,Charles III,PERSON,0.08333333333333333,0.13333333333333333,en,1
+Prince Andrews,Prince Andrews,PERSON,0.0,0.4,en,1
+Queen Camillas,Queen Camillas,PERSON,0.0,0.0,en,1
+Sean CoughlanRoyal,Sean CoughlanRoyal,PERSON,0.0,0.0,en,1
 Casey Station,Casey Station,PERSON,0.075,0.40833333333333327,en,1
 Globemaster III,Globemaster III,PERSON,0.075,0.40833333333333327,en,1
 Bjorn Hjaltason,Bjorn Hjaltason,PERSON,0.0,0.0,en,1
@@ -114,11 +119,10 @@ Charles Will,Charles Will,PERSON,0.2023809523809524,0.30158730158730157,en,1
 Andry Rajoelina,Andry Rajoelina,PERSON,0.16666666666666666,0.3333333333333333,en,1
 Simon Thomas,Simon Thomas,PERSON,0.10178571428571428,0.29285714285714287,en,1
 Johannes Roberts,Johannes Roberts,PERSON,0.0,0.0,en,1
-Paula Robinson,Paula Robinson,PERSON,0.5,0.6,en,1
-Nick Beake,Nick Beake,PERSON,-0.15555555555555559,0.2888888888888889,en,1
-Thomas Copeland,Thomas Copeland,PERSON,-0.15555555555555559,0.2888888888888889,en,1
-Francisco Franco,Francisco Franco,PERSON,0.0,0.03333333333333333,en,1
-Robert De Niro,Robert De Niro,PERSON,0.0,0.65,en,1
+HBO Max,HBO Max,PERSON,0.0,0.0,en,1
+Nicolás Maduro’s,Nicolás Maduro’s,PERSON,0.0,0.0,en,1
+Keira Witcomb,Keira Witcomb,PERSON,0.0,0.0,en,1
+Fani Maoré,Fani Maoré,PERSON,0.21428571428571427,0.42857142857142855,en,1
 Catherine Conlon,Catherine Conlon,PERSON,0.4,1.0,en,1
 Chae Jong Hyeop,Chae Jong Hyeop,PERSON,0.13636363636363635,0.45454545454545453,en,1
 Im Soo Hyang,Im Soo Hyang,PERSON,0.13636363636363635,0.45454545454545453,en,1
@@ -128,7 +132,6 @@ Explorer Colin,Explorer Colin,PERSON,0.0,0.0,en,1
 Evan Miles,Evan Miles,PERSON,0.09523809523809523,0.2119047619047619,en,1
 Mahmoud Abbas,Mahmoud Abbas,PERSON,0.125,0.21666666666666667,en,1
 Doug Barker,Doug Barker,PERSON,-0.2857142857142857,0.7178571428571429,en,1
-Caput Mortum,Caput Mortum,PERSON,-0.4,0.4,en,1
 krill f,krill f,PERSON,0.0,0.6666666666666666,en,1
 Nusrat al-Islam,Nusrat al-Islam,PERSON,0.0,0.0,en,1
 Nunes PALD,Nunes PALD,PERSON,0.0,0.0,en,1
@@ -143,4 +146,8 @@ Jennifer Fox,Jennifer Fox,PERSON,0.3615384615384616,0.5096153846153846,en,1
 Stephen Gaghan,Stephen Gaghan,PERSON,0.3615384615384616,0.5096153846153846,en,1
 Stephen Gaghan Sells,Stephen Gaghan Sells,PERSON,0.5,0.525,en,1
 Pius XI,Pius XI,PERSON,0.0,0.03333333333333333,en,1
+Francisco Franco,Francisco Franco,PERSON,0.0,0.03333333333333333,en,1
+Thomas Copeland,Thomas Copeland,PERSON,-0.15555555555555559,0.2888888888888889,en,1
+Nick Beake,Nick Beake,PERSON,-0.15555555555555559,0.2888888888888889,en,1
+Paula Robinson,Paula Robinson,PERSON,0.5,0.6,en,1
 Heimir Hallgrímsson,Heimir Hallgrímsson,PERSON,-0.15555555555555559,0.2888888888888889,en,1
