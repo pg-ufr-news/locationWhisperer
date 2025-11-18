@@ -168,10 +168,11 @@ def searchGndByNameAndGeo(locationName, latitude, longitude):
                point = point.replace('Point ','').strip().strip('()').strip()
                #print(point)
                coords = point.split(" ")
-               #print(coords)
+               print(coords)
                currLongitude = float(coords[0])
                currLatitude = float(coords[1])
                distance2 = (currLongitude-longitude)**2+(currLatitude-latitude)**2
+               print(distance2)
                if(distance2<minDistance2):
                  minDistance = distance2 
                  if('gndIdentifier' in member):
@@ -181,6 +182,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude):
                    if('preferredName' in member):
                      #print(member['preferredName']) 
                      result['preferredName'] = member['preferredName']
+          print result
           return result
         return None                   
 
