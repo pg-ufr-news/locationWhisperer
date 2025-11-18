@@ -219,13 +219,17 @@ def searchGndByName(locationName):
                     print(coords)
                     result['longitude'] = float(coords[0])
                     result['latitude'] = float(coords[1])
+             found = False
              if('variantName' in member):
                #print(member['variantName']) 
                result['variantNames'] = member['variantName']  
+               found = locationName in member['variantName'] 
              if('preferredName' in member):
                #print(member['preferredName'])
                result['preferredName'] = member['preferredName']
-             return result
+               found = found or (member['preferredName'] == locationName)
+             if(found): 
+               return result
     return None
 
 
@@ -465,8 +469,8 @@ for location in indexNewLocations:
          indexNewLocations[location]['topicColor'] = moreData['topicColor'] 
          indexNewLocations[location]['keywordColor'] = moreData['keywordColor']
          indexNewLocations[location]['continent'] = moreData['continent']  
-         indexNewLocations[location]['gnd'] = str(int(moreData['gnd']))
-         indexNewLocations[location]['geonames'] = str(moreData['geonames'])
+         indexNewLocations[location]['gnd'] = str(moreData['gnd'])
+         indexNewLocations[location]['geonames'] = str(int(moreData['geonames']))
          indexNewLocations[location]['latitude'] = moreData['latitude']
          indexNewLocations[location]['longitude'] = moreData['longitude']
          indexNewLocations[location]['geotype'] = moreData['geotype']
