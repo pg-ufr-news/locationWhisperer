@@ -16,7 +16,7 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: credocker/crepython:2020.0
+      image: credocker/crepython:2022.0
       volumes:
         - ${{ github.workspace }}:/cre/python
     steps:
@@ -34,7 +34,7 @@ jobs:
       - name: Install download en_core_web_md
         run: (python3 -m spacy download en_core_web_md)
       - name: Install geocoder
-        run: (pip3 install geocoder geopandas==0.9)
+        run: (pip3 install geocoder)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run entities

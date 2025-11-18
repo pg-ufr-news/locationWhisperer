@@ -153,7 +153,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude):
       if(content):
         #print(content)
         jsonData = json.loads(content)
-        #print(jsonData)      #'variantName' !
+        print(jsonData)      #'variantName' !
         if('member' in jsonData):
           minDistance2 = 10E9
           result = None
@@ -194,7 +194,7 @@ def searchGndByName(locationName):
       if(content):
         #print(content)
         jsonData = json.loads(content)
-        #print(jsonData)      #'variantName' !
+        print(jsonData)      #'variantName' !
         if('member' in jsonData):
           for member in jsonData['member']:
            print(25*"=*")
