@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,2,0.603329266146,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.592323538746,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Pitcairn',en,Pitcairn,#b29713,#b29713,1,0.577609296008,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'Alofi',en,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
@@ -13,9 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Hollywood',en,United States,#83eb4e,#83eb4e,2,0.523842163888,NORTH-AMERICA,4408912-0,4158928,26.011200000000,-80.149490000000,P,United States,ENA
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.523014003398,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,2,0.522484291549,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
-'Port-aux-Francais',en,French Southern Territories,#210e80,#210e80,1,0.522006250000,SOUTHERN,,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Bouvet Island',en,Bouvet Island,#0d7076,#0d7076,1,0.522006250000,SOUTHERN,,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
+'Port-aux-Francais',en,French Southern Territories,#210e80,#210e80,1,0.522006250000,SOUTHERN,,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Cocos Islands',en,Cocos Islands,#8616cc,#8616cc,1,0.514532017835,INDIAN,4298716-7,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
+'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,1,0.512830281224,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'Czech Republic',en,Czechia,#7ed4f0,#7ed4f0,2,0.512696786290,EUROPE,4303381-7,3077311,49.750000000000,15.000000000000,A,Czechia,WCE
 'VATICAN CITY',en,Vatican,#6ed4ee,#6ed4ee,2,0.511053073112,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Svalbard and Jan Mayen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492808515522,ARCTIC,,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
