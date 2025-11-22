@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.539240567395,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Niue',en,Niue,#be3115,#be3115,2,0.526530958433,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Flying Fish Cove',en,Christmas Island,#a417d0,#a417d0,1,0.525533493842,INDIAN,,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
 'Hollywood',en,United States,#83eb4e,#83eb4e,2,0.524430556997,NORTH-AMERICA,4408912-0,4158928,26.011200000000,-80.149490000000,P,United States,ENA
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Alofi',en,Niue,#be3115,#be3115,1,0.477428439520,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Adamstown',en,Pitcairn,#b29713,#b29713,1,0.475693622443,PACIFIC,,4030723,-25.065970000000,-130.101470000000,P,Pitcairn Islands,SPO
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.472195832747,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
+'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.460154662286,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.354607587739,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,British Indian Ocean Territory,EIO
 'Diego Garcia',en,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,British Indian Ocean Territory,EIO
 'Saint-Pierre',en,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,2034200-7,498817,59.938630000000,30.314130000000,P,Russia,NEU
